@@ -1,6 +1,7 @@
 # PuzzleBlocs
 3D Printable 25mm blocks for real life Minetest/Minecraft.  WIP
 
+![Example of several blocks assembled](img/PuzzleBlocs.jpg)
 
 ## Printing
 
@@ -23,8 +24,11 @@ A 113 block is a perfect 24mm cube,  but heights vary by 8.33mm units, so unlike
 
 ## Gridfinity
 
-There is a gridfinity holder block you can use, it is a 221M size.  However, gridfinity tiles are 42mm and we are 50mm for a 221, so there is wasted space
-on all sides for the connector.
+There is a gridfinity holder block you can use, it is a 221M size.  However, gridfinity tiles are 42mm and we are 50mm for a 221, so there is wasted space on all sides for the connector, and it does not sit perfectly centered.
+
+Right now only 1x1 gridfinity blocks can be used. Larger adapters, or even a tilable adapter system TBD.
+
+This does not aim to replace Gridfinity, it just aims to cover more 3D layered and nonrectangular uses, while keeping compatibility.
 
 
 ## Spec
