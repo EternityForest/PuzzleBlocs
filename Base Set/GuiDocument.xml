@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+ FreeCAD Document, see http://www.freecadweb.org for more information...
+-->
+<Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
+<Expand  count="1">
+  <Expand name="Group003"/>
+</Expand>
+  <Camera extra="1" id="3" binding="0" view3d="2">
+<![CDATA[
+OrthographicCamera {
+  viewportMapping ADJUST_CAMERA
+  position 30.070705 16.905722 48.820938
+  orientation -0.6162551 -0.68350983 -0.39120635  0.11582225
+  nearDistance 12.525361
+  farDistance 82.447426
+  aspectRatio 1
+  focalDistance 35.017239
+  height 70.034546
+
+}
+## overrideMode: As Is]]>
+  </Camera>
+  <CameraExtra id="4" binding="0">
+<![CDATA[
+OrthographicCamera {
+  viewportMapping ADJUST_CAMERA
+  position 42.34761 -22.983034 38.532887
+  orientation 0.96200609 0.19883884 0.18710175  1.3023067
+  nearDistance -0.59054202
+  farDistance 91.925636
+  aspectRatio 1
+  focalDistance 36.667259
+  height 89.571083
+
+}
+## overrideMode: As Is]]>
+  </CameraExtra>
+  <View3D id="3"><![CDATA[
+  <Properties Count="2" TransientCount="0">
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowNaviCube" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+]]>
+  </View3D>
+  <View3D id="4"><![CDATA[
+  <Properties Count="2" TransientCount="0">
+    <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowNaviCube" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+]]>
+  </View3D>
+</Document>
