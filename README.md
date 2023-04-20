@@ -33,7 +33,7 @@ on all sides for the connector.
 
 25 mm X and Y units, 8.33mm vertical.  Subtract 1mm from the real dimension for clearance, so a 2 unit wide block is really 49mm.
 
-Centered on the back and right side is a male dovetail.  It is 5mm wide at the base and extends 4mm.  It's angle is 40 degrees per side.
+Centered on the back and right side is a male dovetail.  It is 5mm wide at the base and extends 4mm.  It's angle is 50 degrees per side, or 130 the other way.
 
 The female dovetail is 4.5 deep, and 6.4mm at the base for clearence, and goes on the left and front.
 

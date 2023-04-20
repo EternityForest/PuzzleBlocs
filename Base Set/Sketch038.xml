@@ -69,10 +69,10 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="1" ref="Pocket021.Edge10" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="1" ref="Pocket021.;#509d;:H12b5,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket021.Edge10" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket021.;#509d;:H12b5,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="24.5" StartY="-23.999" StartZ="0" EndX="-24.5" EndY="-23.999" EndZ="0"/>
           <Construction value="1"/>
@@ -159,7 +159,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="-24.5" Py="0" Pz="0" Q0="0.5" Q1="-0.5" Q2="-0.5" Q3="0.5" A="2.094395102393196" Ox="0.5773502691896257" Oy="-0.5773502691896257" Oz="-0.5773502691896257"/>
+      <PropertyPlacement Px="-24.5" Py="0" Pz="0" Q0="0.5000000000000001" Q1="-0.5000000000000001" Q2="-0.5000000000000001" Q3="0.4999999999999997" A="2.094395102393196" Ox="0.5773502691896257" Oy="-0.5773502691896257" Oz="-0.5773502691896257"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">

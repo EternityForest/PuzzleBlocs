@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad003">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -43,7 +43,7 @@ Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 4
 1 -24.5 -24.500000000000004 0 -1 0 0 0 1 0 0 0 -1 
-2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 -0 1 -0 49
 1 -24.5 24.499999999999996 0 0 1 0 1 0 0 0 0 -1 
 1 -4.2826910482339979 4.2826910482339873 0 0 0 1 1 0 -0 -0 1 0 
 Triangulations 0
@@ -365,7 +365,7 @@ Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 4
 1 -24.5 -24.500000000000004 0 -1 0 0 0 1 0 0 0 -1 
-2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 -0 1 -0 49
 1 -24.5 24.499999999999996 0 0 1 0 1 0 0 0 0 -1 
 1 -4.2826910482339979 4.2826910482339873 0 0 0 1 1 0 -0 -0 1 0 
 Triangulations 0
@@ -414,7 +414,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +14 0 *
 Ve
 1e-07
@@ -445,7 +445,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -463,7 +463,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -472,7 +472,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 -4 3 *
 Sh
 
@@ -572,10 +572,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">
@@ -584,7 +584,7 @@ TShapes 0
     <Property name="TaperInnerAngleRev" type="App::PropertyAngle">
       <Float value="0"/>
     </Property>
-    <Property name="TreeRank" type="App::PropertyInteger" status="2185">
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="39"/>
     </Property>
     <Property name="Type" type="App::PropertyEnumeration">
@@ -603,7 +603,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

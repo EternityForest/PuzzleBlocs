@@ -201,7 +201,7 @@ Curves 3
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 1
-2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 -0 1 -0 49
 Triangulations 0
 
 TShapes 7
@@ -297,13 +297,13 @@ EndMap
         <Link obj="XY_Plane001" sub=""/>
       </LinkSubList>
     </Property>
-    <Property name="TreeRank" type="App::PropertyInteger" status="2185">
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="38"/>
     </Property>
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

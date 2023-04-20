@@ -26,7 +26,7 @@
       <LinkSub value="" count="0">
       </LinkSub>
     </Property>
-    <Property name="Constraints" type="Sketcher::PropertyConstraintList" status="1">
+    <Property name="Constraints" type="Sketcher::PropertyConstraintList">
       <ConstraintList count="55">
         <Constrain Name="" Type="1" Value="0" First="0" FirstPos="2" Second="1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="2" Value="0" First="1" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
@@ -89,7 +89,7 @@
       <LinkList count="0">
       </LinkList>
     </Property>
-    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108865">
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="ExternalBSplineMaxDegree" type="App::PropertyInteger">
@@ -128,7 +128,7 @@
     <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
       <Bool value="false"/>
     </Property>
-    <Property name="Geometry" type="Part::PropertyGeometryList" status="8193">
+    <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
       <GeometryList count="23">
         <Geometry type="Part::GeomLineSegment" id="2" migrated="1">
           <GeoExtensions count="1">
@@ -281,7 +281,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="26" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <LineSegment StartX="54.35712645695519" StartY="-19.16036877867269" StartZ="0" EndX="19.00178739762781" EndY="16.19497028065469" EndZ="0"/>
+          <LineSegment StartX="54.35712645695519" StartY="-19.16036877867269" StartZ="0" EndX="19.00178739762782" EndY="16.19497028065469" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="12" migrated="1">
@@ -350,28 +350,26 @@ Locations 1
               0               1               0               0 
               0               0               1               0 
 Curve2ds 0
-Curves 5
-1 24.5 10.148232278140826 0 -0.70710678118654746 -0.70710678118654757 0 
-1 -10.148232278140824 -24.500000000000007 0 -0.70710678118654746 0.70710678118654768 0 
-1 -24.500000000000004 -10.148232278140824 0 0 1 0 
-1 10.148232278140817 24.5 0 -1 0 0 
-1 24.5 10.148232278140826 0 -0.70710678118654779 0.70710678118654735 0 
+Curves 3
+1 24.5 24.5 0 -1 0 0 
+1 -24.5 -24.5 0 0 1 0 
+1 -24.5 -24.5 0 0.70710678118654746 0.70710678118654746 0 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
 Triangulations 0
 
-TShapes 11
+TShapes 7
 Ve
 1e-07
-24.5 10.1482322781408 0
+24.5 24.5 0
 0 0
 
 0101101
 *
 Ve
 1e-07
--10.1482322781408 -24.5 0
+-24.5 24.5 0
 0 0
 
 0101101
@@ -382,65 +380,37 @@ Ed
 0
 
 0101000
-+11 0 -10 0 *
++7 0 -6 0 *
 Ve
 1e-07
--24.5 -10.1482322781408 0
+-24.5 -24.5 0
 0 0
 
 0101101
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 20.2964645562817
-0
-
-0101000
-+10 0 -8 0 *
-Ve
-1.00000001776357e-07
--24.5 24.5 0
-0 0
-
-0101101
-*
-Ed
- 1e-07 1 1 0
-1  3 0 0 34.6482322781408
-0
-
-0101000
-+8 0 -6 0 *
-Ve
-1e-07
-10.1482322781408 24.5 0
-0 0
-
-0101101
-*
-Ed
- 1e-07 1 1 0
-1  4 0 0 34.6482322781408
+1  2 0 0 49
 0
 
 0101000
 +4 0 -6 0 *
 Ed
  1e-07 1 1 0
-1  5 0 0 20.2964645562817
+1  3 0 0 69.2964645562817
 0
 
 0101000
-+11 0 -4 0 *
++4 0 -7 0 *
 Wi
 
 0101100
-+9 0 +7 0 +5 0 -3 0 -2 0 *
++5 0 -3 0 +2 0 *
 
 +1 1 ]]>
       </Part>
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
-      <ElementMap2 count="15">
+      <ElementMap2 count="9">
 <![CDATA[
 206 PostfixCount 3
 Edge
@@ -455,25 +425,21 @@ Edge
 
 ChildCount 0
 
-NameCount 6
+NameCount 4
 0
-;g7.3 0
-;g12.3 0
-;g14.3 0
 ;g13.3 0
-;g11.3 0
+;g14.3 0
+;g12.3 0
 
 Vertex
 
 ChildCount 0
 
-NameCount 6
+NameCount 4
 0
-;g7v1.3 ;g11v1.3 0
-;g7v2.3 ;g12v1.3 0
-;g12v2.3 ;g14v1.3 0
+;g13v1.3 ;g12v2.3 0
 ;g13v2.3 ;g14v2.3 0
-;g11v2.3 ;g13v1.3 0
+;g14v1.3 ;g12v1.3 0
 
 EndMap
 ]]>
@@ -490,7 +456,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

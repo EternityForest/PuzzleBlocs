@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad013">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -91,7 +91,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0101000
+0111000
 +14 0 *
 Ve
 1e-07
@@ -121,7 +121,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0101000
+0111000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -137,7 +137,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0101000
+0111000
 +6 0 *
 Wi
 
@@ -146,7 +146,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0101000
+0111000
 -4 7 *
 Sh
 
@@ -556,7 +556,7 @@ Wi
 Fa
 0  1e-07 1 3
 
-0111000
+0101000
 +111 0 *
 Ve
 1.00000009242607e-07
@@ -717,7 +717,7 @@ Wi
 Fa
 0  1e-07 2 3
 
-0111000
+0101000
 +88 0 *
 Ed
  1.5e-07 1 1 0
@@ -735,7 +735,7 @@ Wi
 Fa
 0  1e-07 2 3
 
-0111000
+0101000
 +85 0 *
 Ve
 1e-07
@@ -781,7 +781,7 @@ Wi
 Fa
 0  1e-07 4 10
 
-0111000
+0101000
 +78 0 *
 Ve
 1e-07
@@ -882,7 +882,7 @@ Wi
 Fa
 0  1e-07 2 33
 
-0111000
+0101000
 +63 0 *
 Ed
  1e-07 1 1 0
@@ -898,7 +898,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +60 0 *
 Ve
 2.88664308618982e-07
@@ -930,7 +930,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +55 0 *
 Ve
 2.88664308618982e-07
@@ -962,7 +962,7 @@ Wi
 Fa
 0  1e-07 2 3
 
-0111000
+0101000
 +50 0 *
 Ve
 2.88664308618982e-07
@@ -994,7 +994,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +45 0 *
 Ed
  1.00000006547954e-07 1 1 0
@@ -1010,7 +1010,7 @@ Wi
 Fa
 0  1e-07 2 3
 
-0111000
+0101000
 +42 0 *
 Ed
  1e-07 1 1 0
@@ -1033,7 +1033,7 @@ Wi
 Fa
 0  1e-07 1 3
 
-0111000
+0101000
 +38 0 *
 Ed
  1e-07 1 1 0
@@ -1049,7 +1049,7 @@ Wi
 Fa
 0  1e-07 9 0
 
-0111000
+0101000
 +35 0 *
 Wi
 
@@ -1058,7 +1058,7 @@ Wi
 Fa
 0  1e-07 10 0
 
-0111000
+0101000
 +33 0 *
 Ve
 1.50000006404746e-07
@@ -1090,7 +1090,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +28 0 *
 Ed
  1e-07 1 1 0
@@ -1106,7 +1106,7 @@ Wi
 Fa
 0  1e-07 3 10
 
-0111000
+0101000
 +25 0 *
 Ed
  1e-07 1 1 0
@@ -1122,7 +1122,7 @@ Wi
 Fa
 0  1e-07 8 10
 
-0111000
+0101000
 +22 0 *
 Ed
  1e-07 1 1 0
@@ -1138,7 +1138,7 @@ Wi
 Fa
 0  1e-07 1 3
 
-0111000
+0101000
 +19 0 *
 Ve
 1.50000003768222e-07
@@ -1170,7 +1170,7 @@ Wi
 Fa
 0  1e-07 4 3
 
-0111000
+0101000
 +14 0 *
 Ve
 1.50000009272855e-07
@@ -1200,7 +1200,7 @@ Wi
 Fa
 0  1e-07 3 3
 
-0111000
+0101000
 +9 0 *
 Ed
  1.5e-07 1 1 0
@@ -1218,7 +1218,7 @@ Wi
 Fa
 0  1e-07 8 3
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -1227,7 +1227,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -1437,10 +1437,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">
@@ -1468,7 +1468,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

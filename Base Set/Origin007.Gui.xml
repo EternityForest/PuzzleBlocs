@@ -1,10 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- FreeCAD ViewProvider -->
 <Document SchemaVersion="1" FileVersion="2">
-<ViewProvider name="SavedView" expanded="0">
-  <Properties Count="8" TransientCount="0">
+<ViewProvider name="Origin007" expanded="0" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Gui::ViewProviderLinkObserver" name="ViewProviderLinkObserver">
+    </Extension>
+  </Extensions>
+  <Properties Count="10" TransientCount="0">
     <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
-      <Integer value="-1"/>
+      <Integer value="0"/>
+    </Property>
+    <Property name="Margin" type="App::PropertyVector" status="1">
+      <PropertyVector valueX="2" valueY="2" valueZ="2"/>
     </Property>
     <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
       <Integer value="0"/>
@@ -24,8 +31,11 @@
     <Property name="ShowInTree" type="App::PropertyBool" status="1">
       <Bool value="true"/>
     </Property>
+    <Property name="Size" type="App::PropertyVector" status="5">
+      <PropertyVector valueX="28.5" valueY="16" valueZ="41.66500091552734"/>
+    </Property>
     <Property name="Visibility" type="App::PropertyBool" status="1">
-      <Bool value="false"/>
+      <Bool value="true"/>
     </Property>
   </Properties>
 </ViewProvider>

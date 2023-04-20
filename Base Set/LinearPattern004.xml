@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="LinearPattern004">
   <Properties Count="30" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -431,7 +431,7 @@ Curves 14
 1 -24.5 24.499999999999996 0 0 0 1 
 1 -24.5 -24.500000000000004 0 0 1 0 
 1 24.5 24.499999999999993 0 0 0 1 
-2 -24.5 24.499999999999996 0 0 0 1 1 0 0 0 1 0 49
+2 -24.5 24.499999999999996 0 0 0 1 1 0 -0 -0 1 0 49
 1 -24.5 24.499999999999996 0 1 0 0 
 1 -15 24.499999999999996 0 0 0 1 
 1 -10 24.499999999999996 0 -1 0 0 
@@ -445,7 +445,7 @@ Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 8
 1 -24.5 -24.500000000000004 0 -1 0 0 0 1 0 0 0 -1 
-2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.499999999999996 0 -0 -0 -1 1 0 0 -0 1 -0 49
 1 -24.5 24.499999999999996 0 0 1 0 1 0 0 0 0 -1 
 1 -4.2826910482339979 4.2826910482339873 0 0 0 1 1 0 -0 -0 1 0 
 1 -15 24.499999999999996 0 -0.7660444431189779 -0.64278760968653947 0 -0.64278760968653947 0.7660444431189779 0 -0 0 -1 
@@ -498,7 +498,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +67 0 *
 Ve
 1.00000005329071e-07
@@ -531,7 +531,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +62 0 *
 Ve
 1e-07
@@ -667,7 +667,7 @@ Wi
 Fa
 0  1e-07 3 2
 
-0111000
+0101000
 +42 0 *
 Ed
  1e-07 1 1 0
@@ -690,7 +690,7 @@ Wi
 Fa
 0  1e-07 4 2
 
-0111000
+0101000
 -38 0 *
 Wi
 
@@ -699,7 +699,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 -36 5 *
 Ve
 1e-07
@@ -736,7 +736,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +30 0 *
 Ve
 1e-07
@@ -766,7 +766,7 @@ Wi
 Fa
 0  1e-07 6 13
 
-0111000
+0101000
 -25 0 *
 Ed
  1e-07 1 1 0
@@ -789,7 +789,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +21 0 *
 Ed
  1e-07 1 1 0
@@ -812,7 +812,7 @@ Wi
 Fa
 0  1e-07 5 19
 
-0111000
+0101000
 +17 0 *
 Ed
  1e-07 1 1 0
@@ -828,7 +828,7 @@ Wi
 Fa
 0  1e-07 6 30
 
-0111000
+0101000
 -14 0 *
 Ed
  1e-07 1 1 0
@@ -844,7 +844,7 @@ Wi
 Fa
 0  1e-07 7 19
 
-0111000
+0101000
 +11 0 *
 Wi
 
@@ -853,7 +853,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 -9 0 *
 Wi
 
@@ -862,7 +862,7 @@ Wi
 Fa
 0  1e-07 6 19
 
-0111000
+0101000
 -7 0 *
 Wi
 
@@ -871,7 +871,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +5 0 *
 Sh
 
@@ -1071,7 +1071,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">

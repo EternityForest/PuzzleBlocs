@@ -22,7 +22,7 @@
         <Link value="Body006"/>
       </LinkList>
     </Property>
-    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
+    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200961">
       <Map count="0">
       </Map>
     </Property>

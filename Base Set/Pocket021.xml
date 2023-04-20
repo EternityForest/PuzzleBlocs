@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pocket021">
   <Properties Count="43" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -33,7 +33,7 @@ Curves 8
 1 -5.5240516602240959 20 0 -0 -0 -1 
 1 -19.475948339847481 20 0 1 0 0 
 1 -9.3000000000000007 24.5 0 -0 -0 -1 
-1 -5.5240516602240968 20 0 -0.64278760963440784 0.76604444316272147 0 
+1 -5.5240516602240968 20 0 -0.64278760963440795 0.76604444316272158 0 
 1 -15.700000000000001 24.5 0 1 0 0 
 Polygon3D 0
 PolygonOnTriangulations 0
@@ -394,7 +394,7 @@ Curves 18
 1 -24.5 24.5 0 1 0 0 
 1 -15.700000000000001 24.5 0 -0.64278760964155801 -0.76604444315672193 0 
 1 -19.475948339847481 20 0 1 0 0 
-1 -5.5240516602240968 20 0 -0.64278760963440784 0.76604444316272147 0 
+1 -5.5240516602240968 20 0 -0.64278760963440795 0.76604444316272158 0 
 1 -18.488516584871512 21.176775341574547 -23.999000000000002 -0.64278760964155801 -0.76604444315672193 0 
 1 -9.7379741699237403 20 -23.998999999999999 1 0 -0 
 1 0.54118964355571464 12.771726885270638 -23.999000000000002 -0.64278760963440795 0.76604444316272158 0 
@@ -458,7 +458,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +50 0 *
 Ve
 1e-07
@@ -488,7 +488,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +45 0 *
 Ve
 1e-07
@@ -518,7 +518,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +40 0 *
 Ve
 1e-07
@@ -700,7 +700,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +12 0 *
 Ed
  1e-07 1 1 0
@@ -716,7 +716,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1.00000000444089e-07 1 1 0
@@ -732,7 +732,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -741,7 +741,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -909,7 +909,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">
