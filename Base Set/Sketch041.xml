@@ -82,7 +82,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern008.;#5390;:H12b7,E;:H12ba,E;:H12b3,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="5.524051660224096" StartY="-9.992007221626409e-16" StartZ="0" EndX="5.524051660224096" EndY="-19.4990000001114" EndZ="0"/>
+          <LineSegment StartX="5.524051660224096" StartY="-1e-15" StartZ="0" EndX="5.524051660224096" EndY="-19.4990000001114" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="PolarPattern008.;#5396;:H12b7,E;:H12ba,E;:H12b3,E" migrated="1">
@@ -90,7 +90,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern008.;#5396;:H12b7,E;:H12ba,E;:H12b3,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-5.524051660152519" StartY="-9.992007221626409e-16" StartZ="0" EndX="-5.524051660152519" EndY="-19.4990000001114" EndZ="0"/>
+          <LineSegment StartX="-5.524051660152519" StartY="-1e-15" StartZ="0" EndX="-5.524051660152519" EndY="-19.4990000001114" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="3" ref="PolarPattern008.;#5395;:H12b7,E;:H12ba,E;:H12b3,E" migrated="1">
@@ -136,14 +136,14 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="3.578852492136519e-11" CenterY="-8.324051660188308" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="4.324051660188307" StartAngle="4.966990158063361e-17" EndAngle="3.141592653589793"/>
+          <ArcOfCircle CenterX="3.57885e-11" CenterY="-8.324051660188308" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="4.324051660188307" StartAngle="0" EndAngle="3.141592653589793"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomPoint" id="7" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="3.578852492136519e-11" Y="-4" Z="0"/>
+          <GeomPoint X="3.57885e-11" Y="-4" Z="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="8" migrated="1">

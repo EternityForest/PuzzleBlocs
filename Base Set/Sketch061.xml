@@ -92,7 +92,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="-24.5" Y="-4.625819190541741e-23" Z="0"/>
+          <GeomPoint X="-24.5" Y="-0" Z="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="3" migrated="1">

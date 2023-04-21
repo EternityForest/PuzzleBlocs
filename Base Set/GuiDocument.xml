@@ -3,21 +3,34 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="2">
+<Expand  count="7">
+  <Expand name="Group" count="1">
+    <Expand name="Body006" count="1">
+      <Expand name="Pocket027"/>
+    </Expand>
+  </Expand>
+  <Expand name="Group001"/>
   <Expand name="Group002"/>
-  <Expand name="Group003"/>
+  <Expand name="Group003" count="1">
+    <Expand name="Body005" count="1">
+      <Expand name="Pocket021"/>
+    </Expand>
+  </Expand>
+  <Expand name="Group004"/>
+  <Expand name="Group005"/>
+  <Expand name="Group006"/>
 </Expand>
   <Camera extra="1" id="1" binding="0" view3d="2">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -27.896585 -27.899401 52.498158
-  orientation 0.42404595 -0.2501747 -0.87040085  1.3646265
-  nearDistance 10.241999
-  farDistance 107.11598
+  position 23.204231 49.648159 35.409618
+  orientation 0.0023090702 0.042444345 0.99909621  1.414282
+  nearDistance -8.9310093
+  farDistance 85.100182
   aspectRatio 1
   focalDistance 35.017239
-  height 57.339512
+  height 85.540604
 
 }
 ## overrideMode: As Is]]>
@@ -26,13 +39,13 @@ OrthographicCamera {
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 4.6206522 -5.2170496 53.074585
-  orientation -0.90693593 -0.26950079 0.32378477  5.9203019
-  nearDistance 2.8338714
-  farDistance 88.470184
+  position 0.89236832 13.467562 52.240768
+  orientation -0.080847993 -0.13906148 -0.98697805  3.50775
+  nearDistance -7.7153988
+  farDistance 113.82401
   aspectRatio 1
-  focalDistance 34.238033
-  height 68.476067
+  focalDistance 33.062504
+  height 66.125008
 
 }
 ## overrideMode: As Is]]>

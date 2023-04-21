@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad027">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -38,12 +38,12 @@ Curves 6
 1 -24.5 -24.5 0 0 1 0 
 1 24.5 24.499999999999993 0 0 0 1 
 1 -24.5 24.5 0 1 0 0 
-2 -24.5 24.5 0 0 0 1 1 0 0 0 1 0 49
+2 -24.5 24.5 0 0 0 1 1 0 -0 -0 1 0 49
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 4
 1 -24.5 -24.5 0 -1 0 0 0 1 0 0 0 -1 
-2 -24.5 24.5 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.5 0 -0 -0 -1 1 0 0 -0 1 -0 49
 1 -24.5 24.5 0 0 1 0 1 0 0 0 0 -1 
 1 -4.2826910482339979 4.2826910482339917 0 0 0 1 1 0 -0 -0 1 0 
 Triangulations 0
@@ -360,12 +360,12 @@ Curves 6
 1 -24.5 -24.5 0 0 1 0 
 1 24.5 24.499999999999993 0 0 0 1 
 1 -24.5 24.5 0 1 0 0 
-2 -24.5 24.5 0 0 0 1 1 0 0 0 1 0 49
+2 -24.5 24.5 0 0 0 1 1 0 -0 -0 1 0 49
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 4
 1 -24.5 -24.5 0 -1 0 0 0 1 0 0 0 -1 
-2 -24.5 24.5 0 -0 -0 -1 1 0 0 0 1 0 49
+2 -24.5 24.5 0 -0 -0 -1 1 0 0 -0 1 -0 49
 1 -24.5 24.5 0 0 1 0 1 0 0 0 0 -1 
 1 -4.2826910482339979 4.2826910482339917 0 0 0 1 1 0 -0 -0 1 0 
 Triangulations 0
@@ -414,7 +414,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +14 0 *
 Ve
 1.00000005329071e-07
@@ -445,7 +445,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -463,7 +463,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -472,7 +472,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 -4 3 *
 Sh
 
@@ -603,7 +603,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

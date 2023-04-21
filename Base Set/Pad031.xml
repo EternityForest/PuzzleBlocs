@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad031">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -29,11 +29,11 @@ Curve2ds 0
 Curves 8
 1 -2.5 11.999999999999998 0 0 0 1 
 1 -5.8563985247091237 15.999999999999998 0 0 0 1 
-1 -2.5 11.999999999999998 0 -0.6427876096865397 0.76604444311897768 0 
+1 -2.5 11.999999999999998 0 -0.64278760968653981 0.76604444311897779 0 
 1 5.8563985247091033 15.999999999999998 0 0 0 1 
 1 -5.8563985247091237 15.999999999999998 0 1 0 0 
 1 2.5000000000000004 11.999999999999998 0 0 0 1 
-1 5.8563985247091033 15.999999999999998 0 -0.64278760968653736 -0.76604444311897957 0 
+1 5.8563985247091033 15.999999999999998 0 -0.64278760968653748 -0.76604444311897968 0 
 1 2.5000000000000004 11.999999999999998 0 -1 0 0 
 Polygon3D 0
 PolygonOnTriangulations 0
@@ -397,9 +397,9 @@ Curves 16
 1 12 -12 0 -1 0 0 
 1 -12 -12 0 0 1 0 
 1 -5.8563985247091237 15.999999999999998 0 0 0 1 
-1 -2.5 11.999999999999998 0 -0.6427876096865397 0.76604444311897768 0 
+1 -2.5 11.999999999999998 0 -0.64278760968653981 0.76604444311897779 0 
 1 -5.8563985247091237 15.999999999999998 0 1 0 0 
-1 5.8563985247091033 15.999999999999998 0 -0.64278760968653736 -0.76604444311897957 0 
+1 5.8563985247091033 15.999999999999998 0 -0.64278760968653748 -0.76604444311897968 0 
 1 5.8563985247091033 15.999999999999998 0 0 0 1 
 1 12 -12 0 0 0 1 
 1 -12 -12 0 0 0 1 
@@ -641,7 +641,7 @@ Wi
 Fa
 0  1e-07 4 7
 
-0111000
+0101000
 -22 0 *
 Ed
  1.00000000444089e-07 1 1 0
@@ -680,7 +680,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +15 0 *
 Wi
 
@@ -689,7 +689,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 -13 3 *
 Ed
  1e-07 1 1 0
@@ -705,7 +705,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +10 0 *
 Wi
 
@@ -723,7 +723,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -732,7 +732,7 @@ Wi
 Fa
 0  1e-07 9 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -870,10 +870,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">

@@ -75,7 +75,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket030.;#a322;:H130d,E" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-20" Y="41.66499999999999" Z="3.697042672001754e-16"/>
+          <GeomPoint X="-20" Y="41.66499999999999" Z="1.487698852997745e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -170,8 +170,8 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
               1               0               0               0 
-              0 2.22044604925031e-16              -1               0 
-              0               1 2.22044604925031e-16               0 
+              0 -4.44089209850063e-16              -1               0 
+              0               1 -4.44089209850063e-16               0 
 Curve2ds 0
 Curves 3
 1 -24.5 0 0 0.70710678118656367 0.70710678118653136 0 

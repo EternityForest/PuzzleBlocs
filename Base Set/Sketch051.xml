@@ -129,7 +129,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="24.5" Y="5.469345717834406e-22" Z="0"/>
+          <GeomPoint X="24.5" Y="0" Z="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>

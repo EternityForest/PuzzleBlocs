@@ -74,7 +74,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket027.;#9b66;:H12f7,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-10.14823227814084" StartY="3.983415742220051e-16" StartZ="0" EndX="-10.14823227814084" EndY="40.65000000000001" EndZ="0"/>
+          <LineSegment StartX="-10.14823227814084" StartY="4e-16" StartZ="0" EndX="-10.14823227814084" EndY="40.65000000000001" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -96,7 +96,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-10.14823227814084" StartY="3.983415742220051e-16" StartZ="0" EndX="-5.648232278140844" EndY="4.499999999999989" EndZ="0"/>
+          <LineSegment StartX="-10.14823227814084" StartY="4e-16" StartZ="0" EndX="-5.648232278140844" EndY="4.499999999999989" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="4" migrated="1">
@@ -110,7 +110,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-5.648232278140844" StartY="0" StartZ="0" EndX="-10.14823227814084" EndY="3.983415742220051e-16" EndZ="0"/>
+          <LineSegment StartX="-5.648232278140844" StartY="0" StartZ="0" EndX="-10.14823227814084" EndY="4e-16" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>

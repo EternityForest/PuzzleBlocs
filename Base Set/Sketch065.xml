@@ -77,7 +77,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad024.;#c349;:H-13b8,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="28.5" StartY="2.600763393405424e-15" StartZ="-1.154970960384382e-30" EndX="28.5" EndY="8.333000000000002" EndZ="-1.478817068800717e-16"/>
+          <LineSegment StartX="28.5" StartY="2.6e-15" StartZ="-0" EndX="28.5" EndY="8.333000000000002" EndZ="-1e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="6" ref="Pad024.;#ca13;:H13bc,E" migrated="1">
@@ -85,7 +85,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad024.;#ca13;:H13bc,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="24.5" StartY="5.329070518200751e-15" StartZ="-2.366582715663035e-30" EndX="24.5" EndY="41.66500000000001" EndZ="-7.39408534400357e-16"/>
+          <LineSegment StartX="24.5" StartY="5.3e-15" StartZ="-0" EndX="24.5" EndY="41.66500000000001" EndZ="-7.000000000000001e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>

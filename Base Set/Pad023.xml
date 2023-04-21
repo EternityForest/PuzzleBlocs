@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad023">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -91,7 +91,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0101000
+0111000
 +14 0 *
 Ve
 1e-07
@@ -121,7 +121,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0101000
+0111000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -137,7 +137,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0101000
+0111000
 +6 0 *
 Wi
 
@@ -146,7 +146,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0101000
+0111000
 -4 7 *
 Sh
 
@@ -250,7 +250,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-3.33066907387547e-16" valueZ="3.885780586188048e-16"/>
+      <PropertyVector valueX="1" valueY="-3e-16" valueZ="4e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -456,7 +456,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +28 0 *
 Ve
 1e-07
@@ -486,7 +486,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +23 0 *
 Ve
 1e-07
@@ -516,7 +516,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +18 0 *
 Ve
 1.00000013197776e-07
@@ -567,7 +567,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +10 0 *
 Wi
 
@@ -576,7 +576,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +8 0 *
 Wi
 
@@ -585,7 +585,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 -6 3 *
 Wi
 
@@ -594,7 +594,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -743,7 +743,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

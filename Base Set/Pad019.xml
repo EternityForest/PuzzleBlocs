@@ -244,7 +244,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="0.7071067811865475" valueY="0.7071067811865478" valueZ="1.110223024625157e-16"/>
+      <PropertyVector valueX="0.7071067811865475" valueY="0.7071067811865478" valueZ="1e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
