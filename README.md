@@ -84,6 +84,11 @@ A 113 block is a perfect 24mm cube,  but heights vary by 8.33mm units, so unlike
 
 Two males can't face each other, but two females can, and you can use a LinkStick to give the layout a bit more strength.
 
+
+For extra security, blu-tak will hold things together very strongly, since there is mechanical pressure on it, while still allowing easy removal.
+
+Hot glue should also work well for permanent use.
+
 ## Gridfinity
 
 There is a gridfinity holder block you can use, it is a 221M size.  However, gridfinity tiles are 42mm and we are 50mm for a 221, so there is wasted space on all sides for the connector, and it does not sit perfectly centered.
