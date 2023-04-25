@@ -3,20 +3,12 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="7">
+<Expand  count="3">
   <Expand name="Group" count="1">
     <Expand name="Body006" count="1">
       <Expand name="Pocket027"/>
     </Expand>
   </Expand>
-  <Expand name="Group001"/>
-  <Expand name="Group002"/>
-  <Expand name="Group003" count="1">
-    <Expand name="Body005" count="1">
-      <Expand name="Pocket021"/>
-    </Expand>
-  </Expand>
-  <Expand name="Group004"/>
   <Expand name="Group005"/>
   <Expand name="Group006"/>
 </Expand>
@@ -26,8 +18,8 @@ OrthographicCamera {
   viewportMapping ADJUST_CAMERA
   position 23.204231 49.648159 35.409618
   orientation 0.0023090702 0.042444345 0.99909621  1.414282
-  nearDistance -8.9310093
-  farDistance 85.100182
+  nearDistance -8.9310017
+  farDistance 85.100174
   aspectRatio 1
   focalDistance 35.017239
   height 85.540604
@@ -39,13 +31,13 @@ OrthographicCamera {
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 0.89236832 13.467562 52.240768
-  orientation -0.080847993 -0.13906148 -0.98697805  3.50775
-  nearDistance -7.7153988
-  farDistance 113.82401
+  position 0.54930544 -49.426308 27.592659
+  orientation -0.87411803 -0.052035861 0.48291755  5.2226682
+  nearDistance -12.826661
+  farDistance 122.98445
   aspectRatio 1
   focalDistance 33.062504
-  height 66.125008
+  height 66.125099
 
 }
 ## overrideMode: As Is]]>

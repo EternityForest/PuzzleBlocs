@@ -78,7 +78,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern015.;#e0a4;:G#e0b2;CUT;:H-1407:c,E;:H1409,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="7.500000000000001" StartY="6.275948340283897" StartZ="0" EndX="7.5" EndY="-6.275948340284048" EndZ="0"/>
+          <LineSegment StartX="7.500000000000001" StartY="6.975948340296947" StartZ="0" EndX="7.5" EndY="-6.975948340296915" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="PolarPattern015.;#e016;:H1407,E;:H1409,E" migrated="1">
@@ -86,7 +86,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern015.;#e016;:H1407,E;:H1409,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="6.275948340283868" StartY="-7.500000000000001" StartZ="0" EndX="-6.275948340284074" EndY="-7.500000000000001" EndZ="0"/>
+          <LineSegment StartX="6.97594834029692" StartY="-7.5" StartZ="0" EndX="-6.975948340296942" EndY="-7.5" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="3" ref="PolarPattern015.;#e00c;:H1407,E;:H1409,E" migrated="1">
