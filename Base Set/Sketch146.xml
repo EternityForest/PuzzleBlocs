@@ -71,18 +71,18 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="1" ref="Pad060.Edge95" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="1" ref="Pad060.;#12ac1;:H-1534,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.Edge95" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.;#12ac1;:H-1534,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="-16" StartY="-4.250733426427329e-15" StartZ="9.438524243126809e-31" EndX="-16" EndY="8.329999999999997" EndZ="1.703082119774991e-15"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="2" ref="Pad060.Edge39" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="2" ref="Pad060.;#12b2e;:H1537,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.Edge39" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.;#12b2e;:H1537,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="-12" StartY="2.664535259100376e-15" StartZ="-5.916456789157589e-31" EndX="-12" EndY="40.665" EndZ="-1.476596622751456e-16"/>
           <Construction value="1"/>
@@ -177,7 +177,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865476" Q1="0" Q2="0" Q3="0.7071067811865475" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">

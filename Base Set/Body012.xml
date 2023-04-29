@@ -62,7 +62,7 @@
       <Link value="Origin012"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388608">
-      <PropertyPlacement Px="7.999999999999997" Py="6" Pz="1.732050807568877" Q0="0" Q1="4e-16" Q2="-1" Q3="-1.608122649676636e-16" A="3.141592653589794" Ox="0" Oy="4e-16" Oz="-1"/>
+      <PropertyPlacement Px="7.999999999999997" Py="6" Pz="1.732050807568877" Q0="0" Q1="4e-16" Q2="-1" Q3="-3.828568698926949e-16" A="3.141592653589794" Ox="0" Oy="4e-16" Oz="-1"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -71,7 +71,7 @@
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 76
 1
-             -1 -1.22464679914735e-16 -9.77165763441984e-32               8 
+             -1 -1.22464679914735e-16 -9.77165763441982e-32               8 
 1.22464679914735e-16              -1 -7.7715611723761e-16               6 
 -2.54240120291603e-33 -7.7715611723761e-16               1 1.73205080756888 
 1

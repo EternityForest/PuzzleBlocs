@@ -7,7 +7,7 @@
     </Extension>
   </Extensions>
   <Properties Count="11" TransientCount="1">
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663297"/>
     <Property name="ClaimAllChildren" type="App::PropertyBool" status="8">
       <Bool value="true"/>
     </Property>
@@ -18,9 +18,10 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="2">
+      <LinkList count="3">
         <Link value="Body"/>
         <Link value="Body010"/>
+        <Link value="Body026"/>
       </LinkList>
     </Property>
     <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">

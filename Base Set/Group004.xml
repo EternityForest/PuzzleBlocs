@@ -19,9 +19,9 @@
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
       <LinkList count="3">
-        <Link value="Body011"/>
         <Link value="Body012"/>
         <Link value="Part__Mirroring002"/>
+        <Link value="Body011"/>
       </LinkList>
     </Property>
     <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">

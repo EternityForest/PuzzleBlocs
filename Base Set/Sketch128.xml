@@ -99,7 +99,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="0" StartY="19.8325" StartZ="0" EndX="-6.314564523412048" EndY="13.51793547659943" EndZ="0"/>
+          <LineSegment StartX="0" StartY="19.8325" StartZ="0" EndX="-6.314564523412049" EndY="13.51793547659943" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" migrated="1">

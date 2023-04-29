@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="LinearPattern029">
   <Properties Count="30" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -740,7 +740,7 @@ Wi
 Fa
 0  1e-07 4 27
 
-0111000
+0101000
 -35 0 *
 Ed
  1e-07 1 1 0
@@ -786,7 +786,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +27 0 *
 Ed
  1e-07 1 1 0
@@ -802,7 +802,7 @@ Wi
 Fa
 0  1e-07 4 13
 
-0111000
+0101000
 -24 0 *
 Ed
  1e-07 1 1 0
@@ -818,7 +818,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +21 0 *
 Ed
  1e-07 1 1 0
@@ -834,7 +834,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +18 0 *
 Wi
 
@@ -843,7 +843,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 -16 19 *
 Ed
  1e-07 1 1 0
@@ -859,7 +859,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +13 0 *
 Wi
 
@@ -877,7 +877,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 -9 0 *
 Wi
 
@@ -886,7 +886,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +7 0 *
 Wi
 
@@ -895,7 +895,7 @@ Wi
 Fa
 0  1e-07 9 0
 
-0111000
+0101000
 +5 0 *
 Sh
 
