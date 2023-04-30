@@ -7,6 +7,17 @@
 
 The whole base set should print without any support.
 
+## Textures
+
+We do not have many decorative blocks, instead we have plate covers that slide onto blocks, with a fla surface for stickers.
+so you can easily chane the look.
+
+The "Official" texture pack for printable blocks is Drummyfish's hand painted one:
+https://content.minetest.net/packages/drummyfish/drummyfish/
+
+There's a printable "Variety Pack" file in the release.  To make your own, you can use the Tiled
+editor to make a 7x10 tile map, import into libreoffice, resize to 6.89 by 9.84 to make each tile 24mm with a little bleed margin,
+and export as PDF
 
 ## Common/Recommended Block Size code example
 
@@ -26,12 +37,12 @@ Used in the 221MGridfinityHolder. 50mm on a side and 8.33mm tall, it holds a 1x1
 
 Used in the 223MArchedPlatform.  This is a flat table-like platform with kinda-decorative arches that can be used to run cables through.
 
-### 125M
+### 126M
 
-This is 25mm wide by 50mm long and 41.6mm tall.  Not that useful for storage aside from very small things!
+This is 25mm wide by 50mm long and  49mm tall.  Not that useful for storage aside from very small things!
 
 
-### 125IR
+### 126IR
 
 The IR is for inverted right.  The right side, which would normally have male dovetails, instead has females,
 meaning the only male is on one of the long ends.
@@ -41,20 +52,22 @@ cover them with plates to apply a label.
 
 They can be thought of as adapters.  They are also very flexible and you can build a whole layout with them if you don't need it to be very secure.
 
-### 215M
+### 216M
 
-50mm across, 25 deep, and 41.6 tall, with connectors on all sides
+50mm across, 25 deep, and 49 tall, with connectors on all sides
 
-### 205 Plates
+### 206 Plates
 
 This is a flat plate used to cover the female side of a block for decorative or labeling purposes.
 
 The system is designed to keep the decorative elements separate on the plates, so you can easily change the look without new blocks.
 
-### 005 Link Stick
+### 003 Link Stick
 
 This lets you attach 2 female sides together.  They wont pull apart but either side can lift up, it is not as secure.
 
+They are 24mm long, three units.  As longer ones are not really needed and shorter ones would be an annoying small part, 
+other link sticks do not exist.
 
 
 
