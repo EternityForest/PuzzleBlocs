@@ -77,7 +77,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket054.;#10187;:H146f,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-12" StartY="0" StartZ="3.552713678800501e-15" EndX="-12" EndY="24" EndZ="3.552713678800501e-15"/>
+          <LineSegment StartX="-12" StartY="0" StartZ="3.6e-15" EndX="-12" EndY="24" EndZ="3.6e-15"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -259,14 +259,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-397 PostfixCount 3
+308 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 397 2
+ElementMap 1 308 2
 
 Edge
 

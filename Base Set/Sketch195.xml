@@ -250,14 +250,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-855 PostfixCount 3
+693 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 855 2
+ElementMap 1 693 2
 
 Edge
 
@@ -297,7 +297,7 @@ EndMap
       <Bool value="true"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="false"/>
+      <Bool value="true"/>
     </Property>
   </Properties>
 </Object>

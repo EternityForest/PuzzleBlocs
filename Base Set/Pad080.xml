@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-844 PostfixCount 11
+682 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 844 3
+ElementMap 1 682 3
 
 Edge
 
@@ -283,7 +283,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-3.33066907387547e-16" valueZ="3.885780586188048e-16"/>
+      <PropertyVector valueX="1" valueY="-3e-16" valueZ="4e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -532,7 +532,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-844 PostfixCount 11
+682 PostfixCount 11
 Edge
 Face
 Vertex
@@ -547,7 +547,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 844 3
+ElementMap 1 682 3
 
 Edge
 

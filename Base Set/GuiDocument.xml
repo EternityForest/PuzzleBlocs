@@ -3,61 +3,54 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="4">
-  <Expand name="Group" count="1">
-    <Expand name="Body006" count="1">
-      <Expand name="Pocket027"/>
+<Expand  count="3">
+  <Expand name="Group001" count="3">
+    <Expand name="Body009" count="3">
+      <Expand name="Pocket042"/>
+      <Expand name="Pocket043"/>
+      <Expand name="Pocket044"/>
+    </Expand>
+    <Expand name="Body017" count="1">
+      <Expand name="Pocket071"/>
+    </Expand>
+    <Expand name="Part__Mirroring003" count="1">
+      <Expand name="Body017"/>
     </Expand>
   </Expand>
-  <Expand name="Group002" count="1">
-    <Expand name="Body026" count="4">
-      <Expand name="Pad077"/>
-      <Expand name="Pad078"/>
-      <Expand name="Pad079"/>
-      <Expand name="Pocket104"/>
-    </Expand>
-  </Expand>
-  <Expand name="Group006"/>
-  <Expand name="Group008" count="1">
-    <Expand name="Body027" count="4">
-      <Expand name="Pad080"/>
-      <Expand name="Pocket107"/>
-      <Expand name="Pocket108"/>
-      <Expand name="Pocket110"/>
-    </Expand>
-  </Expand>
+  <Expand name="Group004"/>
+  <Expand name="Group005"/>
 </Expand>
-  <Camera extra="1" id="1" binding="0" view3d="2">
+  <Camera extra="1" id="2" binding="0" view3d="2">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -4.5111008 -9.5020695 50.343689
-  orientation -0.30610245 0.16027221 0.9384104  4.5770488
-  nearDistance 1.7688936
-  farDistance 92.260521
+  position -7.8122177 8.2977829 63.621971
+  orientation 0.059488527 0.099331163 0.99327469  4.6930418
+  nearDistance 3.9232922
+  farDistance 124.96954
   aspectRatio 1
-  focalDistance 35.017239
-  height 57.3396
+  focalDistance 42.870804
+  height 85.741615
 
 }
 ## overrideMode: As Is]]>
   </Camera>
-  <CameraExtra id="2" binding="0">
+  <CameraExtra id="3" binding="0">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 9.9914904 53.086021 -7.4955826
-  orientation 0.087830469 0.6655705 0.74114901  3.3002434
-  nearDistance 17.979927
-  farDistance 86.571625
+  position 9.4248266 12.618568 1.5118237
+  orientation 0.14891692 0.58588296 -0.79659587  1.6550949
+  nearDistance -90.346581
+  farDistance 84.412071
   aspectRatio 1
   focalDistance 33.062504
-  height 54.138885
+  height 80.765938
 
 }
 ## overrideMode: As Is]]>
   </CameraExtra>
-  <View3D id="1"><![CDATA[
+  <View3D id="2"><![CDATA[
   <Properties Count="2" TransientCount="0">
     <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
       <Integer value="0"/>
@@ -68,7 +61,7 @@ OrthographicCamera {
   </Properties>
 ]]>
   </View3D>
-  <View3D id="2"><![CDATA[
+  <View3D id="3"><![CDATA[
   <Properties Count="2" TransientCount="0">
     <Property name="DrawStyle" type="App::PropertyEnumeration" status="1">
       <Integer value="0"/>

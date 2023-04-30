@@ -29,7 +29,7 @@
       <Bool value="true"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="1">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
   </Properties>
 </ViewProvider>

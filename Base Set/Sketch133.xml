@@ -128,7 +128,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="1.29838228988868e-22" Y="-12" Z="0"/>
+          <GeomPoint X="0" Y="-12" Z="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -267,14 +267,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-555 PostfixCount 3
+444 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 555 2
+ElementMap 1 444 2
 
 Edge
 

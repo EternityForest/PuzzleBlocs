@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-658 PostfixCount 11
+547 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 658 3
+ElementMap 1 547 3
 
 Edge
 
@@ -283,7 +283,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-3.33066907387547e-16" valueZ="3.885780586188048e-16"/>
+      <PropertyVector valueX="1" valueY="-3e-16" valueZ="4e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -461,7 +461,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0101000
+0111000
 +14 0 *
 Ve
 1e-07
@@ -491,7 +491,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0101000
+0111000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -507,7 +507,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0101000
+0111000
 +6 0 *
 Wi
 
@@ -516,7 +516,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0101000
+0111000
 -4 3 *
 Sh
 
@@ -532,7 +532,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-658 PostfixCount 11
+547 PostfixCount 11
 Edge
 Face
 Vertex
@@ -547,7 +547,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 658 3
+ElementMap 1 547 3
 
 Edge
 
@@ -653,7 +653,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

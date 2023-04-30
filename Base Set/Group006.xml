@@ -18,14 +18,12 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="2">
-        <Link value="Body016"/>
+      <LinkList count="1">
         <Link value="Body022"/>
       </LinkList>
     </Property>
     <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
-      <Map count="2">
-<Item key="Body016" value=""/>
+      <Map count="1">
 <Item key="Body022" value=""/>
       </Map>
     </Property>
@@ -39,7 +37,7 @@
       <Integer value="266"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="true"/>
+      <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
       <LinkList count="0">

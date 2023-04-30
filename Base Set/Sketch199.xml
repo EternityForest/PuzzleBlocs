@@ -91,7 +91,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="17" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket108.;#1b78d;:M;CMN;:H165c:7,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-20.75000000000001" StartY="-8.750000000000405" StartZ="0" EndX="-20.75" EndY="8.750000000000412" EndZ="-7.105427357601002e-15"/>
+          <LineSegment StartX="-20.75000000000001" StartY="-8.750000000000405" StartZ="0" EndX="-20.75" EndY="8.750000000000412" EndZ="-7.1e-15"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -114,7 +114,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <Circle CenterX="8.196591947633834e-31" CenterY="1.193489298414731e-31" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="19.54999999999155"/>
+          <Circle CenterX="0" CenterY="0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="19.54999999999155"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="18" migrated="1">
@@ -135,7 +135,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="20" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="8.196591947633834e-31" StartY="19.55" StartZ="0" EndX="-18.59315489357025" EndY="6.041282240030222" EndZ="0"/>
+          <LineSegment StartX="0" StartY="19.55" StartZ="0" EndX="-18.59315489357025" EndY="6.041282240030222" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="21" migrated="1">
@@ -156,7 +156,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="23" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <Circle CenterX="8.196591947633834e-31" CenterY="1.193489298414731e-31" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="19.55"/>
+          <Circle CenterX="0" CenterY="0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="19.55"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -205,7 +205,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388608">
-      <PropertyPlacement Px="39" Py="-8.659739592076218e-15" Pz="1.298960938811434e-14" Q0="0.5" Q1="0.4999999999999998" Q2="0.5000000000000001" Q3="0.5000000000000003" A="2.094395102393195" Ox="0.5773502691896258" Oy="0.5773502691896256" Oz="0.577350269189626"/>
+      <PropertyPlacement Px="39" Py="-8.7e-15" Pz="1.3e-14" Q0="0.5" Q1="0.4999999999999998" Q2="0.5000000000000001" Q3="0.5000000000000003" A="2.094395102393195" Ox="0.5773502691896258" Oy="0.5773502691896256" Oz="0.577350269189626"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -310,14 +310,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="15">
 <![CDATA[
-858 PostfixCount 3
+696 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 858 2
+ElementMap 1 696 2
 
 Edge
 

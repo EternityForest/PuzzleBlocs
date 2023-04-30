@@ -69,7 +69,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad068.;#14828;:U;XTR;:H1593:7,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="5.856398524709122" StartY="11.9995" StartZ="2.22044604923725e-19" EndX="-5.85639852470912" EndY="11.9995" EndZ="2.22044604923725e-19"/>
+          <LineSegment StartX="5.856398524709122" StartY="11.9995" StartZ="0" EndX="-5.85639852470912" EndY="11.9995" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -91,7 +91,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="0" CenterY="-0.0004999999999970584" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
+          <Circle CenterX="0" CenterY="-0.0004999999999971" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.75"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -185,14 +185,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="2">
 <![CDATA[
-675 PostfixCount 3
+564 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 675 2
+ElementMap 1 564 2
 
 Edge
 

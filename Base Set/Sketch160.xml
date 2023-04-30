@@ -88,7 +88,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch158.;g1;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-3.33066907387547e-16" Y="1" Z="-4.440892098500626e-16"/>
+          <GeomPoint X="-3e-16" Y="1" Z="-4e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomPoint" id="6" ref="Sketch159.;g3;SKT" migrated="1">
@@ -96,7 +96,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch159.;g3;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-4.440892098500625e-15" Y="5.000000000000009" Z="8.881784197001215e-16"/>
+          <GeomPoint X="-4.4e-15" Y="5.000000000000009" Z="9e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -140,7 +140,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-4.440892098500625e-15" StartY="5.000000000000009" StartZ="0" EndX="-3.33066907387547e-16" EndY="1" EndZ="0"/>
+          <LineSegment StartX="-4.4e-15" StartY="5.000000000000009" StartZ="0" EndX="-3.000000000000001e-16" EndY="1" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="9" migrated="1">
@@ -375,14 +375,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-663 PostfixCount 3
+552 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 663 2
+ElementMap 1 552 2
 
 Edge
 

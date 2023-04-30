@@ -204,8 +204,8 @@ Locations 1
               0               0               1         -15.666 
 Curve2ds 0
 Curves 4
-1 24.5 15 0 0.7660444431190504 0.64278760968645321 0 
-1 28.5 18.356398524708354 0 0 -1 0 
+1 24.5 15 0 0.76604444311905062 0.64278760968645277 0 
+1 28.5 18.35639852470835 0 0 -1 0 
 1 28.5 6.6436014752913453 0 -0.76604444311902198 0.64278760968648707 0 
 1 24.5 10 0 0 1 0 
 Polygon3D 0
@@ -280,14 +280,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-179 PostfixCount 3
+163 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 179 2
+ElementMap 1 163 2
 
 Edge
 

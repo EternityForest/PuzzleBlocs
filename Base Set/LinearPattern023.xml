@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="LinearPattern023">
   <Properties Count="30" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -392,7 +392,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="46">
 <![CDATA[
-507 PostfixCount 14
+412 PostfixCount 14
 Edge
 Face
 Vertex
@@ -410,7 +410,7 @@ Vertex
 
 MapCount 3
 
-ElementMap 1 508 3
+ElementMap 1 413 3
 
 Edge
 
@@ -461,7 +461,7 @@ $#11627.6 0
 
 EndMap
 
-ElementMap 2 509 3
+ElementMap 2 414 3
 
 Edge
 
@@ -506,7 +506,7 @@ $#111bf.c 0
 
 EndMap
 
-ElementMap 3 507 3
+ElementMap 3 412 3
 
 Edge
 
@@ -3319,7 +3319,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="302">
 <![CDATA[
-510 PostfixCount 136
+415 PostfixCount 136
 Edge
 Face
 Vertex
@@ -3459,7 +3459,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 511 3
+ElementMap 1 416 3
 
 Edge
 
@@ -3786,7 +3786,7 @@ $#115ee.6d.115c8.1184e.1185d 0
 
 EndMap
 
-ElementMap 2 510 3
+ElementMap 2 415 3
 
 Edge
 

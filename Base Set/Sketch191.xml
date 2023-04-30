@@ -98,7 +98,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad079.;#1a4e4;:H-163b,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="28.5" StartY="6.915268685523689e-15" StartZ="0" EndX="28.5" EndY="-16.15999999999999" EndZ="0"/>
+          <LineSegment StartX="28.5" StartY="6.9e-15" StartZ="0" EndX="28.5" EndY="-16.15999999999999" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -399,14 +399,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="18">
 <![CDATA[
-837 PostfixCount 3
+675 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 2
 
-ElementMap 1 838 2
+ElementMap 1 676 2
 
 Edge
 
@@ -434,7 +434,7 @@ NameCount 6
 
 EndMap
 
-ElementMap 2 837 2
+ElementMap 2 675 2
 
 Edge
 

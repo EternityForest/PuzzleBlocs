@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-810 PostfixCount 11
+648 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 810 3
+ElementMap 1 648 3
 
 Edge
 
@@ -458,7 +458,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +50 0 *
 Ve
 1e-07
@@ -488,7 +488,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +45 0 *
 Ve
 1e-07
@@ -518,7 +518,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +40 0 *
 Ve
 1e-07
@@ -700,7 +700,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +12 0 *
 Ed
  1e-07 1 1 0
@@ -716,7 +716,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -732,7 +732,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -741,7 +741,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -758,7 +758,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="50">
 <![CDATA[
-811 PostfixCount 20
+649 PostfixCount 20
 Edge
 Face
 Vertex
@@ -782,7 +782,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 811 3
+ElementMap 1 649 3
 
 Edge
 

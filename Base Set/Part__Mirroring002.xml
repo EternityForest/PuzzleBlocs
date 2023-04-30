@@ -20,8 +20,8 @@
     <Property name="InvalidShape" type="App::PropertyBool" status="67108864">
       <Bool value="false"/>
     </Property>
-    <Property name="Label" type="App::PropertyString" status="134217728">
-      <String value="215FDrawer"/>
+    <Property name="Label" type="App::PropertyString" status="134217729">
+      <String value="213FDrawer"/>
     </Property>
     <Property name="Label2" type="App::PropertyString" status="128">
       <String value=""/>
@@ -2693,7 +2693,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="300">
 <![CDATA[
-419 PostfixCount 6
+330 PostfixCount 6
 Edge
 Face
 Vertex
@@ -2703,7 +2703,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 419 3
+ElementMap 1 330 3
 
 Edge
 

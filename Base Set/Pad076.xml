@@ -21,9 +21,9 @@ Locations 5
 -3.33066907387547e-16               1 3.33066907387547e-16               0 
 2  1 1 2 1 0
 1
-              1               0               0              18 
-              0               1               0 -5.99520433297584e-15 
-              0               0               1 5.99520433297584e-15 
+              1               0               0              22 
+              0               1               0 -7.32747196252603e-15 
+              0               0               1 7.32747196252603e-15 
 2  1 1 2 1 4 1 0
 Curve2ds 0
 Curves 8
@@ -55,7 +55,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 18
+1  1 0 0 22
 0
 
 0101000
@@ -69,7 +69,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 18
+1  2 0 0 22
 0
 
 0101000
@@ -99,7 +99,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  4 0 0 18
+1  4 0 0 22
 0
 
 0101000
@@ -129,7 +129,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  6 0 0 18
+1  6 0 0 22
 0
 
 0101000
@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-771 PostfixCount 11
+608 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 771 3
+ElementMap 1 608 3
 
 Edge
 
@@ -283,7 +283,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-3.33066907387547e-16" valueZ="3.33066907387547e-16"/>
+      <PropertyVector valueX="1" valueY="-3e-16" valueZ="3e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -313,7 +313,7 @@ EndMap
       <String value=""/>
     </Property>
     <Property name="Length" type="App::PropertyLength">
-      <Float value="18"/>
+      <Float value="22"/>
     </Property>
     <Property name="Length2" type="App::PropertyLength">
       <Float value="100"/>
@@ -364,9 +364,9 @@ Locations 5
 -3.33066907387547e-16               1 3.33066907387547e-16               0 
 2  1 1 2 1 0
 1
-              1               0               0              18 
-              0               1               0 -5.99520433297584e-15 
-              0               0               1 5.99520433297584e-15 
+              1               0               0              22 
+              0               1               0 -7.32747196252603e-15 
+              0               0               1 7.32747196252603e-15 
 2  1 1 2 1 4 1 0
 Curve2ds 0
 Curves 8
@@ -398,7 +398,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 18
+1  1 0 0 22
 0
 
 0101000
@@ -412,7 +412,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 18
+1  2 0 0 22
 0
 
 0101000
@@ -442,7 +442,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  4 0 0 18
+1  4 0 0 22
 0
 
 0101000
@@ -472,7 +472,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  6 0 0 18
+1  6 0 0 22
 0
 
 0101000
@@ -532,7 +532,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-771 PostfixCount 11
+608 PostfixCount 11
 Edge
 Face
 Vertex
@@ -547,7 +547,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 771 3
+ElementMap 1 608 3
 
 Edge
 
@@ -653,7 +653,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

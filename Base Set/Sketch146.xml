@@ -76,7 +76,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.;#12ac1;:H-1534,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-16" StartY="-4.250733426427329e-15" StartZ="9.438524243126809e-31" EndX="-16" EndY="8.329999999999997" EndZ="1.703082119774991e-15"/>
+          <LineSegment StartX="-16" StartY="-8.501466852854658e-15" StartZ="3.775409697250724e-30" EndX="-16" EndY="8.329999999999991" EndZ="-1.465494392505168e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Pad060.;#12b2e;:H1537,E" migrated="1">
@@ -84,7 +84,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad060.;#12b2e;:H1537,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-12" StartY="2.664535259100376e-15" StartZ="-5.916456789157589e-31" EndX="-12" EndY="40.665" EndZ="-1.476596622751456e-16"/>
+          <LineSegment StartX="-12" StartY="5.329070518200751e-15" StartZ="-2.366582715663035e-30" EndX="-12" EndY="49.00000000000001" EndZ="-4.440892098500658e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -187,8 +187,8 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
               1               0               0               0 
-              0 -2.22044604925031e-16              -1               0 
-              0               1 -2.22044604925031e-16               0 
+              0 -4.44089209850063e-16              -1               0 
+              0               1 -4.44089209850063e-16               0 
 Curve2ds 0
 Curves 4
 1 -12 0.50000000000000266 0 -0.70710678118654757 0.70710678118654746 0 
@@ -267,14 +267,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-603 PostfixCount 3
+492 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 603 2
+ElementMap 1 492 2
 
 Edge
 

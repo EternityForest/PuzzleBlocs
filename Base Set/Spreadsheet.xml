@@ -25,11 +25,13 @@
       <Bool value="false"/>
     </Property>
     <Property name="cells" type="Spreadsheet::PropertySheet" status="67108864">
-      <Cells Count="4">
+      <Cells Count="6">
         <Cell address="A2" content="Clearance at Neck"/>
         <Cell alias="clearance" address="B2" content="1.4"/>
         <Cell address="A3" content="Angle"/>
         <Cell alias="dangle" address="B3" content="130"/>
+        <Cell address="A4" content="Plate Dovetail Length"/>
+        <Cell alias="platedove" address="B4" content="16"/>
       </Cells>
     </Property>
     <Property name="columnWidths" type="Spreadsheet::PropertyColumnWidths" status="218103808">

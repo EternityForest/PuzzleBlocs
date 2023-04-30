@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Fillet011">
   <Properties Count="23" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape" status="128">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -3848,7 +3848,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="413">
 <![CDATA[
-607 PostfixCount 15
+496 PostfixCount 15
 Edge
 Face
 Vertex
@@ -3867,7 +3867,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 607 3
+ElementMap 1 496 3
 
 Edge
 

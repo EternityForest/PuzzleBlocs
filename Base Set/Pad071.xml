@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad071">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -162,7 +162,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="20">
 <![CDATA[
-686 PostfixCount 11
+575 PostfixCount 11
 Edge
 Face
 Vertex
@@ -177,7 +177,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 686 3
+ElementMap 1 575 3
 
 Edge
 
@@ -250,7 +250,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-3.33066907387547e-16" valueZ="3.885780586188048e-16"/>
+      <PropertyVector valueX="1" valueY="-3e-16" valueZ="4e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -615,9 +615,9 @@ Curves 47
 1 -9.7636259752714256 -25.05252792164984 -0.5525279216383594 -0.51027360537857369 -0.60812040241605059 -0.60812040240341569 
 1 5.5240516597030602 -20 0 0 0 1 
 1 -39.139383596657709 2.2839013766176297 15.139383596657696 -0.60812040241135024 0.51027360537471889 0.60812040241135068 
-1 -10.160320868168608 -2.9675805292795925 -13.839679131831407 0.60812040241134113 0.51027360537474253 -0.60812040241134024 
+1 -10.160320868168608 -2.9675805292795925 -13.839679131831407 0.60812040241134102 0.51027360537474242 -0.60812040241134013 
 1 -35.260536218653144 24.029161972341186 11.260536218653158 -0.60812040241135024 0.51027360537471889 0.60812040241135068 
-1 -14.039168246173277 18.777680066443693 -9.9608317538267084 0.60812040241134113 0.51027360537474253 -0.60812040241134024 
+1 -14.039168246173277 18.777680066443693 -9.9608317538267084 0.60812040241134102 0.51027360537474242 -0.60812040241134013 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 16
@@ -2482,7 +2482,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="250">
 <![CDATA[
-687 PostfixCount 35
+576 PostfixCount 35
 Edge
 Face
 Vertex
@@ -2521,7 +2521,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 687 3
+ElementMap 1 576 3
 
 Edge
 

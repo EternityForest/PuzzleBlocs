@@ -201,7 +201,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +2 0 *
 
 +1 1 ]]>
@@ -209,7 +209,7 @@ Fa
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-861 PostfixCount 6
+699 PostfixCount 6
 Edge
 Face
 Vertex
@@ -219,7 +219,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 861 3
+ElementMap 1 699 3
 
 Edge
 
