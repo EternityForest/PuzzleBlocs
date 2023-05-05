@@ -4913,7 +4913,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="536">
 <![CDATA[
-750 PostfixCount 81
+755 PostfixCount 81
 Edge
 Face
 Vertex
@@ -4998,7 +4998,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 751 3
+ElementMap 1 756 3
 
 Edge
 
@@ -5559,7 +5559,7 @@ $#215b3.6 0
 
 EndMap
 
-ElementMap 2 750 3
+ElementMap 2 755 3
 
 Edge
 
@@ -5598,7 +5598,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">

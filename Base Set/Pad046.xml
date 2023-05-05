@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad046">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -23,7 +23,7 @@ Locations 5
 1
               1               0               0               0 
               0               1               0               0 
-              0               0               1          40.665 
+              0               0               1              49 
 2  1 1 2 1 4 1 0
 Curve2ds 0
 Curves 8
@@ -55,7 +55,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 40.665
+1  1 0 0 49
 0
 
 0101000
@@ -69,7 +69,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 40.665
+1  2 0 0 49
 0
 
 0101000
@@ -99,7 +99,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  4 0 0 40.665
+1  4 0 0 49
 0
 
 0101000
@@ -129,7 +129,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  6 0 0 40.665
+1  6 0 0 49
 0
 
 0101000
@@ -313,7 +313,7 @@ EndMap
       <String value=""/>
     </Property>
     <Property name="Length" type="App::PropertyLength">
-      <Float value="40.665"/>
+      <Float value="49"/>
     </Property>
     <Property name="Length2" type="App::PropertyLength">
       <Float value="100"/>
@@ -366,7 +366,7 @@ Locations 5
 1
               1               0               0               0 
               0               1               0               0 
-              0               0               1          40.665 
+              0               0               1              49 
 2  1 1 2 1 4 1 0
 Curve2ds 0
 Curves 8
@@ -398,7 +398,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  1 0 0 40.665
+1  1 0 0 49
 0
 
 0101000
@@ -412,7 +412,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  2 0 0 40.665
+1  2 0 0 49
 0
 
 0101000
@@ -431,7 +431,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0101000
+0111000
 +19 0 *
 Ve
 1e-07
@@ -442,7 +442,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  4 0 0 40.665
+1  4 0 0 49
 0
 
 0101000
@@ -461,7 +461,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0101000
+0111000
 +14 0 *
 Ve
 1e-07
@@ -472,7 +472,7 @@ Ve
 *
 Ed
  1e-07 1 1 0
-1  6 0 0 40.665
+1  6 0 0 49
 0
 
 0101000
@@ -491,7 +491,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0101000
+0111000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -507,7 +507,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0101000
+0111000
 +6 0 *
 Wi
 
@@ -516,7 +516,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0101000
+0111000
 -4 3 *
 Sh
 

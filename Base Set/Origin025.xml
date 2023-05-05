@@ -33,8 +33,8 @@
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="327"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="false"/>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
       <LinkList count="0">

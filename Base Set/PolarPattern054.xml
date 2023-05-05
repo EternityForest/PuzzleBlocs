@@ -122,7 +122,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="8">
 <![CDATA[
-920 PostfixCount 6
+925 PostfixCount 6
 Edge
 Face
 Vertex
@@ -132,7 +132,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 920 3
+ElementMap 1 925 3
 
 Edge
 
@@ -1872,7 +1872,7 @@ Wi
 Fa
 0  1e-07 10 5
 
-0101000
+0111000
 +288 0 *
 Ve
 1.00000014127343e-07
@@ -2038,7 +2038,7 @@ Wi
 Fa
 0  1e-07 12 5
 
-0101000
+0111000
 +264 0 *
 Ve
 1.00000025879392e-07
@@ -2279,7 +2279,7 @@ Wi
 Fa
 0  1e-07 6 44
 
-0101000
+0111000
 +230 0 +227 0 *
 Ed
  1.00000000444089e-07 1 1 0
@@ -3054,7 +3054,7 @@ Wi
 Fa
 0  1e-07 29 5
 
-0101000
+0111000
 +106 0 *
 Ed
  1e-07 1 1 0
@@ -3071,7 +3071,7 @@ Wi
 Fa
 0  1e-07 5 105
 
-0101000
+0111000
 +103 0 *
 Ed
  1e-07 1 1 0
@@ -3196,7 +3196,7 @@ Wi
 Fa
 0  1e-07 31 5
 
-0101000
+0111000
 +84 0 *
 Ve
 1.00000000222045e-07
@@ -3229,7 +3229,7 @@ Wi
 Fa
 0  1e-07 5 105
 
-0101000
+0111000
 +79 0 *
 Ed
  1e-07 1 1 0
@@ -3450,7 +3450,7 @@ Wi
 Fa
 0  1e-07 18 128
 
-0101000
+0111000
 +41 0 +40 0 *
 Wi
 
@@ -3670,7 +3670,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="381">
 <![CDATA[
-921 PostfixCount 50
+926 PostfixCount 50
 Edge
 Face
 Vertex
@@ -3724,7 +3724,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 790 3
+ElementMap 1 795 3
 
 Edge
 
@@ -4130,7 +4130,7 @@ $#24e16.16 0
 
 EndMap
 
-ElementMap 2 921 3
+ElementMap 2 926 3
 
 Edge
 
@@ -4191,7 +4191,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="true"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">

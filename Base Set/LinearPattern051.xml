@@ -147,7 +147,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-969 PostfixCount 9
+974 PostfixCount 9
 Edge
 Face
 Vertex
@@ -160,7 +160,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 970 3
+ElementMap 1 975 3
 
 Edge
 
@@ -201,7 +201,7 @@ $#26813.7 0
 
 EndMap
 
-ElementMap 2 969 3
+ElementMap 2 974 3
 
 Edge
 
@@ -1736,7 +1736,7 @@ Wi
 Fa
 0  1e-07 9 99
 
-0101000
+0111000
 +389 0 +386 0 +383 0 *
 Ed
  1.5e-07 1 1 0
@@ -2393,7 +2393,7 @@ Wi
 Fa
 0  1e-07 12 51
 
-0101000
+0111000
 +285 0 +282 0 +279 0 *
 Ve
 1.00000014210855e-07
@@ -2463,7 +2463,7 @@ Wi
 Fa
 0  1e-07 13 51
 
-0101000
+0111000
 +274 0 +271 0 +268 0 *
 Ve
 1.00000014210855e-07
@@ -2533,7 +2533,7 @@ Wi
 Fa
 0  1e-07 14 51
 
-0101000
+0111000
 +263 0 +260 0 +257 0 *
 Ed
  1.00000014210855e-07 1 1 0
@@ -2589,7 +2589,7 @@ Wi
 Fa
 0  1e-07 15 51
 
-0101000
+0111000
 +254 0 +251 0 +248 0 *
 Ve
 1.00000019539925e-07
@@ -2833,7 +2833,7 @@ Wi
 Fa
 0  1e-07 11 105
 
-0101000
+0111000
 +209 0 *
 Ed
  1e-07 1 1 0
@@ -2984,7 +2984,7 @@ Wi
 Fa
 0  1e-07 9 149
 
-0101000
+0111000
 +191 0 +188 0 +185 0 *
 Ed
  1.00000010760003e-07 1 1 0
@@ -3491,7 +3491,7 @@ Wi
 Fa
 0  1e-07 11 105
 
-0101000
+0111000
 +105 0 *
 Ve
 1.00000004070145e-07
@@ -3557,7 +3557,7 @@ Wi
 Fa
 0  1e-07 11 143
 
-0101000
+0111000
 +95 0 *
 Ve
 1.00000002512148e-07
@@ -3607,7 +3607,7 @@ Wi
 Fa
 0  1e-07 11 143
 
-0101000
+0111000
 +87 0 *
 Ed
  1e-07 1 1 0
@@ -3785,7 +3785,7 @@ Wi
 Fa
 0  1e-07 9 156
 
-0101000
+0111000
 +58 0 +57 0 +56 0 *
 Ve
 1.50000004440892e-07
@@ -4032,7 +4032,7 @@ Wi
 Fa
 0  1e-07 9 135
 
-0101000
+0111000
 +17 0 +16 0 +15 0 *
 Wi
 
@@ -4114,7 +4114,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="410">
 <![CDATA[
-971 PostfixCount 51
+976 PostfixCount 51
 Edge
 Face
 Vertex
@@ -4169,7 +4169,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 927 3
+ElementMap 1 977 3
 
 Edge
 
@@ -4604,7 +4604,7 @@ $#266e5.10 0
 
 EndMap
 
-ElementMap 2 971 3
+ElementMap 2 976 3
 
 Edge
 
@@ -4665,8 +4665,8 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
-      <Bool value="true"/>
+    <Property name="Visibility" type="App::PropertyBool" status="649">
+      <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">
       <LinkList count="0">

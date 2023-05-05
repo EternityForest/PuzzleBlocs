@@ -6268,7 +6268,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="689">
 <![CDATA[
-631 PostfixCount 101
+635 PostfixCount 101
 Edge
 Face
 Vertex
@@ -6373,7 +6373,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 632 3
+ElementMap 1 636 3
 
 Edge
 
@@ -7087,7 +7087,7 @@ $#1f2e0.e 0
 
 EndMap
 
-ElementMap 2 631 3
+ElementMap 2 635 3
 
 Edge
 
@@ -7126,7 +7126,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">

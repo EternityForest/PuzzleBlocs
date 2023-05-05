@@ -3,34 +3,21 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand  count="3">
-  <Expand name="Group001" count="3">
-    <Expand name="Body009" count="3">
-      <Expand name="Pocket042"/>
-      <Expand name="Pocket043"/>
-      <Expand name="Pocket044"/>
-    </Expand>
-    <Expand name="Body017" count="1">
-      <Expand name="Pocket071"/>
-    </Expand>
-    <Expand name="Part__Mirroring003" count="1">
-      <Expand name="Body017"/>
-    </Expand>
-  </Expand>
-  <Expand name="Group004"/>
+<Expand  count="2">
   <Expand name="Group005"/>
+  <Expand name="Group009"/>
 </Expand>
   <Camera extra="1" id="2" binding="0" view3d="2">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -7.8122177 8.2977829 63.621971
-  orientation 0.059488527 0.099331163 0.99327469  4.6930418
-  nearDistance 3.9232922
-  farDistance 124.96954
+  position 18.839935 -4.6914673 7.2555094
+  orientation -0.59046662 -0.73013866 -0.3438704  4.8431196
+  nearDistance -18.621958
+  farDistance 59.458271
   aspectRatio 1
   focalDistance 42.870804
-  height 85.741615
+  height 31.542629
 
 }
 ## overrideMode: As Is]]>
@@ -41,8 +28,8 @@ OrthographicCamera {
   viewportMapping ADJUST_CAMERA
   position 9.4248266 12.618568 1.5118237
   orientation 0.14891692 0.58588296 -0.79659587  1.6550949
-  nearDistance -90.346581
-  farDistance 84.412071
+  nearDistance -47.554924
+  farDistance 41.534721
   aspectRatio 1
   focalDistance 33.062504
   height 80.765938
