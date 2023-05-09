@@ -122,7 +122,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="8">
 <![CDATA[
-1038 PostfixCount 6
+1000 PostfixCount 6
 Edge
 Face
 Vertex
@@ -132,7 +132,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 1038 3
+ElementMap 1 1000 3
 
 Edge
 
@@ -2279,7 +2279,7 @@ Wi
 Fa
 0  1e-07 6 44
 
-0101000
+0111000
 +230 0 +227 0 *
 Ed
  1.00000000444089e-07 1 1 0
@@ -3670,7 +3670,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="381">
 <![CDATA[
-1039 PostfixCount 50
+1001 PostfixCount 50
 Edge
 Face
 Vertex
@@ -3724,7 +3724,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 1040 3
+ElementMap 1 1002 3
 
 Edge
 
@@ -4130,7 +4130,7 @@ $#282c9.16 0
 
 EndMap
 
-ElementMap 2 1039 3
+ElementMap 2 1001 3
 
 Edge
 
@@ -4191,7 +4191,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">

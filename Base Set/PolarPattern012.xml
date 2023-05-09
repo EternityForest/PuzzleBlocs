@@ -231,7 +231,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="52">
 <![CDATA[
-202 PostfixCount 14
+204 PostfixCount 14
 Edge
 Face
 Vertex
@@ -249,7 +249,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 203 3
+ElementMap 1 205 3
 
 Edge
 
@@ -326,7 +326,7 @@ $#d2fc.c 0
 
 EndMap
 
-ElementMap 2 202 3
+ElementMap 2 204 3
 
 Edge
 
@@ -1672,7 +1672,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="134">
 <![CDATA[
-204 PostfixCount 59
+206 PostfixCount 59
 Edge
 Face
 Vertex
@@ -1735,7 +1735,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 205 3
+ElementMap 1 207 3
 
 Edge
 
@@ -1894,7 +1894,7 @@ $#d5e8.31.d2ba.d36a.da1b 0
 
 EndMap
 
-ElementMap 2 204 3
+ElementMap 2 206 3
 
 Edge
 

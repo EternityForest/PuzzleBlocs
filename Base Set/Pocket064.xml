@@ -195,7 +195,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-390 PostfixCount 11
+394 PostfixCount 11
 Edge
 Face
 Vertex
@@ -210,7 +210,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 390 3
+ElementMap 1 394 3
 
 Edge
 
@@ -914,7 +914,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="66">
 <![CDATA[
-391 PostfixCount 29
+395 PostfixCount 29
 Edge
 Face
 Vertex
@@ -947,7 +947,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 391 3
+ElementMap 1 395 3
 
 Edge
 

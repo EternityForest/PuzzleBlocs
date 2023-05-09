@@ -23,8 +23,7 @@
       </LinkList>
     </Property>
     <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
-      <Map count="1">
-<Item key="Body005" value=""/>
+      <Map count="0">
       </Map>
     </Property>
     <Property name="Label" type="App::PropertyString" status="134217728">

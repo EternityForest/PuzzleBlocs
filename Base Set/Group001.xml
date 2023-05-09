@@ -7,7 +7,7 @@
     </Extension>
   </Extensions>
   <Properties Count="11" TransientCount="1">
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663297"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
     <Property name="ClaimAllChildren" type="App::PropertyBool" status="8">
       <Bool value="true"/>
     </Property>
@@ -56,7 +56,7 @@
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="123"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">

@@ -156,7 +156,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="20">
 <![CDATA[
-885 PostfixCount 11
+852 PostfixCount 11
 Edge
 Face
 Vertex
@@ -171,7 +171,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 885 3
+ElementMap 1 852 3
 
 Edge
 
@@ -1869,7 +1869,7 @@ Wi
 Fa
 0  1e-07 13 24
 
-0101000
+0111000
 +359 0 +355 0 *
 Ed
  1.00000000444089e-07 1 1 0
@@ -2817,7 +2817,7 @@ Wi
 Fa
 0  1e-07 20 24
 
-0101000
+0111000
 +205 0 *
 Ve
 2.87222293049481e-07
@@ -2849,7 +2849,7 @@ Wi
 Fa
 0  1e-07 21 0
 
-0101000
+0111000
 +200 0 *
 Ve
 1.50000002664535e-07
@@ -2881,7 +2881,7 @@ Wi
 Fa
 0  1e-07 22 24
 
-0101000
+0111000
 +195 0 *
 Ve
 2.12133034355964e-07
@@ -3043,7 +3043,7 @@ Wi
 Fa
 0  1e-07 15 98
 
-0101000
+0111000
 +172 0 +171 0 +170 0 *
 Ed
  1.00000001776357e-07 1 1 0
@@ -3136,7 +3136,7 @@ Wi
 Fa
 0  1e-07 7 164
 
-0101000
+0111000
 +157 0 *
 Ed
  1.5e-07 1 1 0
@@ -3350,7 +3350,7 @@ Wi
 Fa
 0  1e-07 7 164
 
-0101000
+0111000
 +126 0 *
 Ed
  1e-07 1 1 0
@@ -3366,7 +3366,7 @@ Wi
 Fa
 0  1e-07 18 98
 
-0101000
+0111000
 +123 0 *
 Ed
  1.5e-07 1 1 0
@@ -3797,7 +3797,7 @@ Wi
 Fa
 0  1e-07 30 0
 
-0101000
+0111000
 +50 0 *
 Ed
  1e-07 1 1 0
@@ -3944,7 +3944,7 @@ Wi
 Fa
 0  1e-07 15 98
 
-0101000
+0111000
 +24 0 *
 Wi
 
@@ -3953,7 +3953,7 @@ Wi
 Fa
 0  1e-07 15 98
 
-0101000
+0111000
 +22 0 *
 Wi
 
@@ -4066,7 +4066,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="398">
 <![CDATA[
-878 PostfixCount 26
+845 PostfixCount 26
 Edge
 Face
 Vertex
@@ -4096,7 +4096,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 878 3
+ElementMap 1 845 3
 
 Edge
 
@@ -4574,7 +4574,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="true"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

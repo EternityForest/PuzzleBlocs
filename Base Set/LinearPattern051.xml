@@ -147,7 +147,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-974 PostfixCount 9
+936 PostfixCount 9
 Edge
 Face
 Vertex
@@ -160,7 +160,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 975 3
+ElementMap 1 937 3
 
 Edge
 
@@ -201,7 +201,7 @@ $#26813.7 0
 
 EndMap
 
-ElementMap 2 974 3
+ElementMap 2 936 3
 
 Edge
 
@@ -4114,7 +4114,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="410">
 <![CDATA[
-976 PostfixCount 51
+938 PostfixCount 51
 Edge
 Face
 Vertex
@@ -4169,7 +4169,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 977 3
+ElementMap 1 894 3
 
 Edge
 
@@ -4604,7 +4604,7 @@ $#266e5.10 0
 
 EndMap
 
-ElementMap 2 976 3
+ElementMap 2 938 3
 
 Edge
 
@@ -4666,7 +4666,7 @@ TShapes 0
       <Bool value="true"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="649">
-      <Bool value="false"/>
+      <Bool value="true"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">
       <LinkList count="0">

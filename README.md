@@ -139,14 +139,8 @@ At the bottom of the male, the first 0.5mm is missing, then there is a 45 degree
 At the bottom of the female, we have a 45 degree wedge stopper extending from the back to the front, going downwards as you go away from the center of a block.
 
 
-### The lock slot(TBD)
+### The lock hole
 
-Starting 8.5mm from the base of the part on all female sides where practical, there should be a cutout 4.5mm in from the female edge.
+Centered 9.5mm from the base of the part on all female sides where practical, there should be a 2mm hole centered 2.2mm in from the female edge.
 
-This cutout does not have exact specifications, to ease manufacturing restrictions.  It is intended to be sized such that one could stuff
-a piece of 4mm OD tubing or rolled up paper into it to use as a roll pin, holding the male end down, or to run some paracord through for a similiar purpose.
-
-It should not be circular, there should be a small amount of compression when the tube is in, and there should be room to grip ot with pliers or tweezers
-for removal.
-
-Note that it may not be possible to remove the tube without needle nose pliers or tweezers, this is a semipermanent method.
+This hole lets you put a piece of filament through, it will go above the male tab and hold it down, making connections more permanent.

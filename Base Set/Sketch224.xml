@@ -454,14 +454,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="4">
 <![CDATA[
-784 PostfixCount 3
+789 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 784 2
+ElementMap 1 789 2
 
 Edge
 

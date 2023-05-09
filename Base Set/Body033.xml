@@ -32,7 +32,7 @@
       <Integer value="0"/>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="27">
+      <LinkList count="28">
         <Link value="Sketch250"/>
         <Link value="Pad098"/>
         <Link value="Sketch251"/>
@@ -60,6 +60,7 @@
         <Link value="Sketch260"/>
         <Link value="LinearPattern050"/>
         <Link value="Pad101"/>
+        <Link value="Sketch300"/>
       </LinkList>
     </Property>
     <Property name="InvalidShape" type="App::PropertyBool" status="67108864">
@@ -3760,7 +3761,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="398">
 <![CDATA[
-877 PostfixCount 26
+844 PostfixCount 26
 Edge
 Face
 Vertex
@@ -3790,7 +3791,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 878 3
+ElementMap 1 845 3
 
 Edge
 
@@ -4213,7 +4214,7 @@ $#24fec.15 0
 
 EndMap
 
-ElementMap 2 877 3
+ElementMap 2 844 3
 
 Edge
 
@@ -4256,7 +4257,7 @@ EndMap
       <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
-      <LinkList count="16">
+      <LinkList count="17">
         <Link value="Pad098"/>
         <Link value="Pad099"/>
         <Link value="Pocket143"/>
@@ -4273,6 +4274,7 @@ EndMap
         <Link value="PolarPattern053"/>
         <Link value="LinearPattern050"/>
         <Link value="Pad101"/>
+        <Link value="Sketch300"/>
       </LinkList>
     </Property>
     <Property name="_GroupVersion" type="App::PropertyInteger" status="218103808">
