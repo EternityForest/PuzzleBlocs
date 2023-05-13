@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-556 PostfixCount 11
+557 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 556 3
+ElementMap 1 557 3
 
 Edge
 
@@ -461,7 +461,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +14 0 *
 Ve
 1e-07
@@ -491,7 +491,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -507,7 +507,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -516,7 +516,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 -4 3 *
 Sh
 
@@ -532,7 +532,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-556 PostfixCount 11
+557 PostfixCount 11
 Edge
 Face
 Vertex
@@ -547,7 +547,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 556 3
+ElementMap 1 557 3
 
 Edge
 
@@ -653,7 +653,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

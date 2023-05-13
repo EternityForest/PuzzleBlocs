@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="PolarPattern040">
   <Properties Count="30" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -784,7 +784,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="102">
 <![CDATA[
-719 PostfixCount 27
+720 PostfixCount 27
 Edge
 Face
 Vertex
@@ -815,7 +815,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 720 3
+ElementMap 1 721 3
 
 Edge
 
@@ -942,7 +942,7 @@ $#1f241.15 0
 
 EndMap
 
-ElementMap 2 719 3
+ElementMap 2 720 3
 
 Edge
 
@@ -7588,7 +7588,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="689">
 <![CDATA[
-721 PostfixCount 101
+722 PostfixCount 101
 Edge
 Face
 Vertex
@@ -7693,7 +7693,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 641 3
+ElementMap 1 642 3
 
 Edge
 
@@ -8407,7 +8407,7 @@ $#1f2e0.e 0
 
 EndMap
 
-ElementMap 2 721 3
+ElementMap 2 722 3
 
 Edge
 

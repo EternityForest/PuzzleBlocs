@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad121">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -289,7 +289,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="1" valueY="-2.220446049250313e-16" valueZ="2.775557561562891e-16"/>
+      <PropertyVector valueX="1" valueY="-2e-16" valueZ="3e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -443,7 +443,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +19 0 *
 Ve
 1.00000007105427e-07
@@ -473,7 +473,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +14 0 *
 Ve
 1.00000007105427e-07
@@ -519,7 +519,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -634,10 +634,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">

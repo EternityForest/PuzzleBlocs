@@ -28,8 +28,8 @@
     </Property>
     <Property name="Constraints" type="Sketcher::PropertyConstraintList">
       <ConstraintList count="2">
-        <Constrain Name="" Type="1" Value="0" First="0" FirstPos="3" Second="-3" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
         <Constrain Name="" Type="18" Value="2.5" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="1.012350082397461" LabelPosition="0.2617993950843811" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="-3" FirstPos="3" Second="0" SecondPos="3" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
       </ConstraintList>
     </Property>
     <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
@@ -63,19 +63,19 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomArcOfCircle" id="1" ref="Pocket194.;#2d441;:H188c,E" migrated="1">
+        <Geometry type="Part::GeomArcOfCircle" id="3" ref="Pocket194.;#2d433;:H188c,E" migrated="1">
           <GeoExtensions count="2">
-            <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket194.;#2d441;:H188c,E" Flags="0"/>
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket194.;#2d433;:H188c,E" Flags="0"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="17.76" CenterY="3.01" CenterZ="0" NormalX="0" NormalY="0" NormalZ="-1" AngleXU="-1.570796326794897" Radius="2.99" StartAngle="3.141592653589793" EndAngle="4.71238898038469"/>
+          <ArcOfCircle CenterX="17.76" CenterY="2.99" CenterZ="0" NormalX="-0" NormalY="0" NormalZ="1" AngleXU="-1.570796326794897" Radius="2.99" StartAngle="0" EndAngle="1.570796326794897"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
     </Property>
     <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
       <LinkSubList count="1">
-        <Link obj="Pocket194" sub="Edge23" shadow=";#2d441;:H188c,E.Edge23"/>
+        <Link obj="Pocket194" sub="Edge11" shadow=";#2d433;:H188c,E.Edge11"/>
       </LinkSubList>
     </Property>
     <Property name="FixShape" type="App::PropertyEnumeration">
@@ -90,7 +90,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="17.76" CenterY="3.01" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.25"/>
+          <Circle CenterX="17.76" CenterY="2.99" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="1.25"/>
           <Construction value="0"/>
         </Geometry>
       </GeometryList>
@@ -153,7 +153,7 @@ Locations 1
               0               1               0               0 
 Curve2ds 0
 Curves 1
-2 17.760000000000002 3.0099999999999998 0 0 0 1 1 0 -0 -0 1 0 1.25
+2 17.760000000000002 2.9899999999999998 0 0 0 1 1 0 0 0 1 0 1.25
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -162,7 +162,7 @@ Triangulations 0
 TShapes 3
 Ve
 1e-07
-19.01 3.01 0
+19.01 2.99 0
 0 0
 
 0101101
@@ -184,14 +184,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="2">
 <![CDATA[
-1120 PostfixCount 3
+1109 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 1120 2
+ElementMap 1 1109 2
 
 Edge
 

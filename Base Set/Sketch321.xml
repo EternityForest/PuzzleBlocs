@@ -19,7 +19,7 @@
     </Property>
     <Property name="AttachmentSupport" type="App::PropertyLinkSubList">
       <LinkSubList count="1">
-        <Link obj="Pad122" sub="Face10" shadow=";#2c4ed;:M;FUS;:H185a:7,F.Face10"/>
+        <Link obj="Pad122" sub="Face9" shadow=";#2c5c5;:M#3ae59;RFI;:H185a:d,F.Face9"/>
       </LinkSubList>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
@@ -95,18 +95,18 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="13" ref="Pad122.;#2c4e9;:M;FUS;:H185a:7,E" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="13" ref="Pad121.;g2;SKT;:H1859,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad122.;#2c4e9;:M;FUS;:H185a:7,E" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad121.;g2;SKT;:H1859,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="-20.75" StartY="17.49999999999999" StartZ="0" EndX="-20.75" EndY="-17.50000000000001" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="14" ref="Pad122.;#2c4eb;:M;FUS;:H185a:7,E" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="14" ref="Pad121.;g4;SKT;:H1859,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="14" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad122.;#2c4eb;:M;FUS;:H185a:7,E" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad121.;g4;SKT;:H1859,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="20.75" StartY="-17.5" StartZ="0" EndX="20.75" EndY="17.5" EndZ="0"/>
           <Construction value="1"/>
@@ -115,8 +115,8 @@
     </Property>
     <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
       <LinkSubList count="2">
-        <Link obj="Pad122" sub="Edge10" shadow=";#2c4e9;:M;FUS;:H185a:7,E.Edge10"/>
-        <Link obj="Pad122" sub="Edge16" shadow=";#2c4eb;:M;FUS;:H185a:7,E.Edge16"/>
+        <Link obj="Pad121" sub="Edge6" shadow=";g2;SKT;:H1859,E.Edge6"/>
+        <Link obj="Pad121" sub="Edge11" shadow=";g4;SKT;:H1859,E.Edge11"/>
       </LinkSubList>
     </Property>
     <Property name="FixShape" type="App::PropertyEnumeration">
@@ -215,7 +215,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="3.231174267785264e-27" Y="17.5" Z="0"/>
+          <GeomPoint X="0" Y="17.5" Z="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -264,7 +264,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="-20.75" Py="4.6074255521944e-15" Pz="-4.6074255521944e-15" Q0="-0.5" Q1="0.5000000000000001" Q2="0.5" Q3="-0.4999999999999999" A="4.188790204786391" Ox="-0.5773502691896257" Oy="0.5773502691896258" Oz="0.5773502691896257"/>
+      <PropertyPlacement Px="-20.75" Py="4.015190522182624e-15" Pz="-4.54120240631242e-15" Q0="-0.5" Q1="0.5000000000000001" Q2="0.5" Q3="-0.4999999999999999" A="4.188790204786391" Ox="-0.5773502691896257" Oy="0.5773502691896258" Oz="0.5773502691896257"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -274,8 +274,8 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
 -2.22044604925031e-16 -2.22044604925031e-16              -1          -20.75 
-             -1 4.93038065763132e-32 2.22044604925031e-16 4.6074255521944e-15 
-              0               1 -2.22044604925031e-16 -4.6074255521944e-15 
+             -1 4.93038065763132e-32 2.22044604925031e-16 4.01519052218262e-15 
+              0               1 -2.22044604925031e-16 -4.54120240631242e-15 
 Curve2ds 0
 Curves 12
 1 -3.0000000000189342 27.920839000000001 0 1 0 0 
@@ -539,7 +539,7 @@ EndMap
     </Property>
     <Property name="Support" type="App::PropertyLinkSubList" status="67108864">
       <LinkSubList count="1">
-        <Link obj="Pad122" sub="Face10" shadow=";#2c4ed;:M;FUS;:H185a:7,F.Face10"/>
+        <Link obj="Pad122" sub="Face9" shadow=";#2c5c5;:M#3ae59;RFI;:H185a:d,F.Face9"/>
       </LinkSubList>
     </Property>
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">

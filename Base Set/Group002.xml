@@ -7,7 +7,7 @@
     </Extension>
   </Extensions>
   <Properties Count="11" TransientCount="1">
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663297"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663296"/>
     <Property name="ClaimAllChildren" type="App::PropertyBool" status="8">
       <Bool value="true"/>
     </Property>
@@ -24,7 +24,7 @@
         <Link value="Body026"/>
       </LinkList>
     </Property>
-    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200961">
+    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
       <Map count="3">
 <Item key="Body" value=""/>
 <Item key="Body010" value=""/>
@@ -40,7 +40,7 @@
     <Property name="TreeRank" type="App::PropertyInteger" status="2184">
       <Integer value="138"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">

@@ -130,7 +130,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388608">
-      <PropertyPlacement Px="-1.714089684425073e-14" Py="-26.00562703306617" Pz="21.82131205197967" Q0="1.066936178773427e-16" Q1="0.9063077870366497" Q2="0.4226182617407001" Q3="2.288052019121633e-16" A="3.141592653589793" Ox="1.066936178773427e-16" Oy="0.9063077870366497" Oz="0.4226182617407001"/>
+      <PropertyPlacement Px="-1.71e-14" Py="-26.00562703306617" Pz="21.82131205197967" Q0="1e-16" Q1="0.9063077870366497" Q2="0.4226182617407001" Q3="2.83276944882399e-16" A="3.141592653589793" Ox="1e-16" Oy="0.9063077870366497" Oz="0.4226182617407001"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -139,12 +139,12 @@ TShapes 0
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-             -1 4.93038065763132e-32 5.04917215067271e-16 -1.71408968442507e-14 
+             -1 1.4791141972894e-31 5.04917215067271e-16 -1.71408968442507e-14 
 3.86789026837394e-16 0.642787609686538 0.766044443118979 -26.0056270330662 
 -3.24554529762675e-16 0.766044443118979 -0.642787609686538 21.8213120519797 
 Curve2ds 0
 Curves 1
-2 0 12 0 0 0 1 1 0 0 0 1 0 1.6000000000000001
+2 0 12 0 0 0 1 1 0 -0 -0 1 0 1.6000000000000001
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -175,14 +175,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="2">
 <![CDATA[
-919 PostfixCount 3
+920 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 919 2
+ElementMap 1 920 2
 
 Edge
 

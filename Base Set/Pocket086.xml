@@ -105,7 +105,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="8">
 <![CDATA[
-570 PostfixCount 11
+571 PostfixCount 11
 Edge
 Face
 Vertex
@@ -120,7 +120,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 570 3
+ElementMap 1 571 3
 
 Edge
 
@@ -768,7 +768,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="48">
 <![CDATA[
-563 PostfixCount 13
+564 PostfixCount 13
 Edge
 Face
 Vertex
@@ -785,7 +785,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 563 3
+ElementMap 1 564 3
 
 Edge
 
@@ -910,7 +910,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

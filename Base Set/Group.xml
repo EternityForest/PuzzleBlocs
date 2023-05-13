@@ -18,13 +18,17 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="2">
+      <LinkList count="3">
         <Link value="Body039"/>
         <Link value="Body040"/>
+        <Link value="Body044"/>
       </LinkList>
     </Property>
-    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200960">
-      <Map count="0">
+    <Property name="HiddenChildren" type="App::PropertyMap" group="Group" attr="8" ro="1" hide="1" doc="" status="220200961">
+      <Map count="3">
+<Item key="Body039" value=""/>
+<Item key="Body040" value=""/>
+<Item key="Body044" value=""/>
       </Map>
     </Property>
     <Property name="Label" type="App::PropertyString" status="134217728">

@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad108">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -223,7 +223,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="37">
 <![CDATA[
-956 PostfixCount 11
+957 PostfixCount 11
 Edge
 Face
 Vertex
@@ -238,7 +238,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 956 3
+ElementMap 1 957 3
 
 Edge
 
@@ -323,7 +323,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="0" valueY="-1" valueZ="-2.220446049250313e-16"/>
+      <PropertyVector valueX="0" valueY="-1" valueZ="-2e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -475,7 +475,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +24 0 *
 Ve
 1e-07
@@ -505,7 +505,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +19 0 *
 Ve
 1e-07
@@ -535,7 +535,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +14 0 *
 Ve
 1e-07
@@ -565,7 +565,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1e-07 1 1 0
@@ -581,7 +581,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +6 0 *
 Wi
 
@@ -590,7 +590,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +4 3 *
 Sh
 
@@ -606,7 +606,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="37">
 <![CDATA[
-956 PostfixCount 11
+957 PostfixCount 11
 Edge
 Face
 Vertex
@@ -621,7 +621,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 956 3
+ElementMap 1 957 3
 
 Edge
 
@@ -733,7 +733,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

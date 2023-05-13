@@ -74,12 +74,12 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="1" ref="Sketch275.Edge1" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="1" ref="Sketch275.;g1;SKT" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch275.Edge1" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch275.;g1;SKT" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-24" StartY="0.9999999999999987" StartZ="-4.930380657631324e-32" EndX="0" EndY="1" EndZ="0"/>
+          <LineSegment StartX="-24" StartY="0.9999999999999987" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -178,7 +178,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.4999999999999999" Q1="0.4999999999999999" Q2="0.4999999999999999" Q3="0.5000000000000003" A="2.094395102393195" Ox="0.5773502691896258" Oy="0.5773502691896258" Oz="0.5773502691896258"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.5" Q1="0.5" Q2="0.5" Q3="0.5000000000000003" A="2.094395102393195" Ox="0.5773502691896258" Oy="0.5773502691896258" Oz="0.5773502691896258"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -268,14 +268,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-946 PostfixCount 3
+947 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 946 2
+ElementMap 1 947 2
 
 Edge
 
@@ -314,7 +314,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

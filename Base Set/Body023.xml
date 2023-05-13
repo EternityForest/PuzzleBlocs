@@ -8,7 +8,7 @@
   </Extensions>
   <Properties Count="21" TransientCount="2">
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
-    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663425"/>
+    <_Property name="_GroupTouched" type="App::PropertyBool" status="100663424"/>
     <Property name="AutoGroupSolids" type="App::PropertyBool" status="134217728">
       <Bool value="false"/>
     </Property>
@@ -5008,7 +5008,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="564">
 <![CDATA[
-574 PostfixCount 42
+575 PostfixCount 42
 Edge
 Face
 Vertex
@@ -5054,7 +5054,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 575 3
+ElementMap 1 576 3
 
 Edge
 
@@ -5643,7 +5643,7 @@ $#1f980.20 0
 
 EndMap
 
-ElementMap 2 574 3
+ElementMap 2 575 3
 
 Edge
 
@@ -5682,7 +5682,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">

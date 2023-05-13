@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="View002" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="TechDraw::CosmeticExtension" name="CosmeticExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="31" TransientCount="0">
+    <Property name="Caption" type="App::PropertyString" status="134217728">
+      <String value=""/>
+    </Property>
+    <Property name="CenterLines" type="TechDraw::PropertyCenterLineList">
+      <CenterLineList count="0">
+      </CenterLineList>
+    </Property>
+    <Property name="CoarseView" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="CosmeticEdges" type="TechDraw::PropertyCosmeticEdgeList">
+      <CosmeticEdgeList count="0">
+      </CosmeticEdgeList>
+    </Property>
+    <Property name="CosmeticVertexes" type="TechDraw::PropertyCosmeticVertexList">
+      <CosmeticVertexList count="0">
+      </CosmeticVertexList>
+    </Property>
+    <Property name="Direction" type="App::PropertyVector">
+      <PropertyVector valueX="0" valueY="0" valueZ="1"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Focus" type="App::PropertyDistance">
+      <Float value="100"/>
+    </Property>
+    <Property name="GeomFormats" type="TechDraw::PropertyGeomFormatList">
+      <GeomFormatList count="0">
+      </GeomFormatList>
+    </Property>
+    <Property name="HardHidden" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="IsoCount" type="App::PropertyInteger">
+      <Integer value="0"/>
+    </Property>
+    <Property name="IsoHidden" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="IsoVisible" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="View002"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="LockPosition" type="App::PropertyBool" status="134217728">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Perspective" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Rotation" type="App::PropertyAngle" status="134217728">
+      <Float value="0"/>
+    </Property>
+    <Property name="Scale" type="App::PropertyFloatConstraint">
+      <Float value="1"/>
+    </Property>
+    <Property name="ScaleType" type="App::PropertyEnumeration">
+      <Integer value="0"/>
+    </Property>
+    <Property name="SeamHidden" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="SeamVisible" type="App::PropertyBool">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SmoothHidden" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="SmoothVisible" type="App::PropertyBool">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Source" type="App::PropertyLinkList">
+      <LinkList count="1">
+        <Link value="Body043"/>
+      </LinkList>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="736"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="X" type="App::PropertyDistance" status="142606336">
+      <Float value="127.9734416310892"/>
+    </Property>
+    <Property name="XDirection" type="App::PropertyVector">
+      <PropertyVector valueX="1" valueY="0" valueZ="-0"/>
+    </Property>
+    <Property name="XSource" type="App::PropertyXLinkList">
+      <XLinkSubList count="0">
+      </XLinkSubList>
+    </Property>
+    <Property name="Y" type="App::PropertyDistance" status="142606336">
+      <Float value="79.42333485478166"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

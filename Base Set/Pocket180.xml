@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pocket180">
   <Properties Count="43" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-1026 PostfixCount 11
+1027 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 1026 3
+ElementMap 1 1027 3
 
 Edge
 
@@ -509,8 +509,8 @@ Surfaces 19
 
 1 -20.600000000000001 -5.9999999999999982 9.1047303895693084 3.7729003824029448e-19 0.017452406437283838 0.99984769515639127 -1 2.1250286150969834e-16 -3.3319037349900778e-18 -2.1252864603280265e-16 -0.99984769515639127 0.017452406437283838 
 1 -17.295269610430694 -6 1.7763568394002505e-15 0.99984769515639127 0.017452406437283397 -3.7604209808790257e-18 2.4395283630162312e-18 7.5706704092451129e-17 1 0.017452406437283397 -0.99984769515639127 7.565259795421755e-17 
-1 -20.600000000000001 -6.0000000000000018 -9.1047303895693048 3.7729003824058221e-19 0.017452406437283248 -0.99984769515639127 1 -2.1250286150969839e-16 -3.3319037349896653e-18 -2.125286460328027e-16 -0.99984769515639127 -0.017452406437283248 
-1 -23.904730389569306 -6 1.7763568394002505e-15 -0.99984769515639127 0.017452406437283397 -3.8780352936049435e-18 5.7367047247174618e-19 -1.8934077691804855e-16 -1 -0.017452406437283397 -0.99984769515639127 1.8930192747038465e-16 
+1 -20.600000000000001 -6.0000000000000018 -9.1047303895693048 3.7729003824058221e-19 0.017452406437283248 -0.99984769515639127 1 -2.1250286150969844e-16 -3.3319037349896661e-18 -2.1252864603280275e-16 -0.99984769515639127 -0.017452406437283248 
+1 -23.904730389569306 -6 1.7763568394002505e-15 -0.99984769515639127 0.017452406437283397 -3.8780352936049435e-18 5.7367047247174541e-19 -1.893407769180486e-16 -1 -0.017452406437283397 -0.99984769515639127 1.8930192747038469e-16 
 1 25 -5.5511151231257827e-15 -25 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
 9 0 0 0 0 1 1 2 2 2 2 -17.399999999999999 -1.9984014443252818e-15 -9  -17.190539220861389 -12.000000000000002 -9.2094607791386078  
 -17.399999999999999 1.9984014443252818e-15 9  -17.190539220861389 -11.999999999999998 9.2094607791386167  
@@ -571,7 +571,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +93 0 *
 Ve
 1e-07
@@ -601,7 +601,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +88 0 *
 Ve
 1e-07
@@ -631,7 +631,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +83 0 *
 Ed
  1e-07 1 1 0
@@ -769,7 +769,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +80 0 +63 0 *
 Wi
 
@@ -846,7 +846,7 @@ Wi
 Fa
 0  1e-07 4 4
 
-0111000
+0101000
 +61 0 +52 0 *
 Wi
 
@@ -855,7 +855,7 @@ Wi
 Fa
 0  1e-07 13 0
 
-0111000
+0101000
 +50 0 *
 Ed
  1e-07 1 1 0
@@ -935,7 +935,7 @@ Wi
 Fa
 0  1e-07 12 0
 
-0111000
+0101000
 +39 0 *
 Ve
 1.50000001831027e-07
@@ -1016,7 +1016,7 @@ Wi
 Fa
 0  1e-07 16 0
 
-0111000
+0101000
 +27 0 *
 Ve
 1e-07
@@ -1046,7 +1046,7 @@ Wi
 Fa
 0  1e-07 17 0
 
-0111000
+0101000
 +22 0 *
 Ve
 1e-07
@@ -1076,7 +1076,7 @@ Wi
 Fa
 0  1e-07 18 0
 
-0111000
+0101000
 +17 0 *
 Ve
 1e-07
@@ -1106,7 +1106,7 @@ Wi
 Fa
 0  1e-07 19 0
 
-0111000
+0101000
 +12 0 *
 Ed
  1e-07 1 1 0
@@ -1122,7 +1122,7 @@ Wi
 Fa
 0  1e-07 16 0
 
-0111000
+0101000
 +9 0 *
 Ed
  1.5e-07 1 1 0
@@ -1166,7 +1166,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="86">
 <![CDATA[
-1027 PostfixCount 26
+1028 PostfixCount 26
 Edge
 Face
 Vertex
@@ -1196,7 +1196,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 1027 3
+ElementMap 1 1028 3
 
 Edge
 
@@ -1331,10 +1331,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">
@@ -1359,7 +1359,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

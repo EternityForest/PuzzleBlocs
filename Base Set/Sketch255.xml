@@ -86,18 +86,18 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="1" ref="PolarPattern051.Edge73" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="1" ref="PolarPattern051.;#24374;:H1737,E;:H1734,E;:H173e,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern051.Edge73" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern051.;#24374;:H1737,E;:H1734,E;:H173e,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="12" StartY="49" StartZ="0" EndX="3.199999999999999" EndY="49" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomLineSegment" id="2" ref="PolarPattern051.Edge77" migrated="1">
+        <Geometry type="Part::GeomLineSegment" id="2" ref="PolarPattern051.;#24379;:H1737,E;:H1734,E;:H173e,E" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern051.Edge77" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern051.;#24379;:H1737,E;:H1734,E;:H173e,E" Flags="0"/>
           </GeoExtensions>
           <LineSegment StartX="-3.199999999999999" StartY="49" StartZ="0" EndX="-12" EndY="49" EndZ="0"/>
           <Construction value="1"/>
@@ -150,7 +150,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="3.621037141798831e-23" Y="49.00000000000001" Z="0"/>
+          <GeomPoint X="0" Y="49.00000000000001" Z="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -289,14 +289,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-883 PostfixCount 3
+884 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 883 2
+ElementMap 1 884 2
 
 Edge
 

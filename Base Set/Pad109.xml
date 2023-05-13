@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="Pad109">
   <Properties Count="46" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -34,7 +34,7 @@ Curves 8
 1 -5.3144031115559223 7.0999999999999996 0 -0.37460659341591179 0.92718385456678754 0 
 1 27.430882932311558 -1.241229341530925e-14 55.899999999999999 3.8518598887744717e-34 -1 -2.2204460492503131e-16 
 1 -25.03088293231156 55.899999999999999 0 -1 0 0 
-1 -27.430882932311558 55.899999999999999 0 0.20710837679071362 -0.97831800569299332 0 
+1 -27.430882932311558 55.899999999999999 0 0.20710837679071364 -0.97831800569299343 0 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 5
@@ -88,7 +88,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0101000
+0111000
 +19 0 *
 Ve
 1e-07
@@ -118,7 +118,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0101000
+0111000
 +14 0 *
 Ve
 1e-07
@@ -164,7 +164,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0101000
+0111000
 +6 0 *
 Wi
 
@@ -173,7 +173,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0101000
+0111000
 +4 3 *
 Sh
 
@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-962 PostfixCount 11
+963 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 962 3
+ElementMap 1 963 3
 
 Edge
 
@@ -283,7 +283,7 @@ EndMap
       </LinkSub>
     </Property>
     <Property name="Direction" type="App::PropertyVector" status="4">
-      <PropertyVector valueX="-3.851859888774472e-34" valueY="1" valueZ="2.220446049250313e-16"/>
+      <PropertyVector valueX="-0" valueY="1" valueZ="2e-16"/>
     </Property>
     <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
       <ExpressionEngine count="0"></ExpressionEngine>
@@ -465,7 +465,7 @@ Curves 34
 1 -15.900000000000002 79.324977262218184 7.1000000000000174 3.8518598887744717e-34 -1 -2.2204460492503131e-16 
 1 -5.3144031115559223 7.0999999999999996 0 -0.37460659341591179 0.92718385456678754 0 
 1 -25.03088293231156 55.899999999999999 0 -1 0 0 
-1 -27.430882932311558 55.899999999999999 0 0.20710837679071362 -0.97831800569299332 0 
+1 -27.430882932311558 55.899999999999999 0 0.20710837679071364 -0.97831800569299343 0 
 1 5.3144031115559294 39.662488631109092 7.1000000000000094 0 -1 -2.2204460492503131e-16 
 1 0.78930938220217095 79.324977262218184 -4.0999999999999819 3.8518598887744717e-34 -1 -2.2204460492503131e-16 
 1 0.18993883273671142 79.324977262218184 -5.5834941673068421 3.8518598887744717e-34 -1 -2.2204460492503131e-16 
@@ -539,7 +539,7 @@ Wi
 Fa
 0  1e-07 1 0
 
-0111000
+0101000
 +95 0 *
 Ve
 1e-07
@@ -569,7 +569,7 @@ Wi
 Fa
 0  1e-07 2 0
 
-0111000
+0101000
 +90 0 *
 Ve
 1e-07
@@ -599,7 +599,7 @@ Wi
 Fa
 0  1e-07 3 0
 
-0111000
+0101000
 +85 0 *
 Ve
 1.00000005329071e-07
@@ -740,7 +740,7 @@ Wi
 Fa
 0  1e-07 4 0
 
-0111000
+0101000
 +66 0 *
 Ve
 1.00000006217249e-07
@@ -881,7 +881,7 @@ Wi
 Fa
 0  1e-07 4 4
 
-0111000
+0101000
 +47 0 *
 Ed
  1.00000005329071e-07 1 1 0
@@ -897,7 +897,7 @@ Wi
 Fa
 0  1e-07 11 0
 
-0111000
+0101000
 +44 0 *
 Ed
  1e-07 1 1 0
@@ -913,7 +913,7 @@ Wi
 Fa
 0  1e-07 12 0
 
-0111000
+0101000
 +41 0 *
 Ve
 1e-07
@@ -983,7 +983,7 @@ Wi
 Fa
 0  1e-07 5 0
 
-0111000
+0101000
 +30 0 *
 Ed
  1.00000000013878e-07 1 1 0
@@ -999,7 +999,7 @@ Wi
 Fa
 0  1e-07 6 0
 
-0111000
+0101000
 +27 0 *
 Ed
  1e-07 1 1 0
@@ -1015,7 +1015,7 @@ Wi
 Fa
 0  1e-07 7 0
 
-0111000
+0101000
 +24 0 *
 Ed
  1e-07 1 1 0
@@ -1031,7 +1031,7 @@ Wi
 Fa
 0  1e-07 8 0
 
-0111000
+0101000
 +21 0 *
 Ed
  1e-07 1 1 0
@@ -1047,7 +1047,7 @@ Wi
 Fa
 0  1e-07 9 0
 
-0111000
+0101000
 +18 0 *
 Wi
 
@@ -1056,7 +1056,7 @@ Wi
 Fa
 0  1e-07 10 0
 
-0111000
+0101000
 +16 0 *
 Ed
  1e-07 1 1 0
@@ -1120,7 +1120,7 @@ Wi
 Fa
 0  1e-07 16 0
 
-0111000
+0101000
 +4 0 *
 Sh
 
@@ -1137,7 +1137,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="94">
 <![CDATA[
-963 PostfixCount 21
+964 PostfixCount 21
 Edge
 Face
 Vertex
@@ -1162,7 +1162,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 963 3
+ElementMap 1 964 3
 
 Edge
 
@@ -1301,10 +1301,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">

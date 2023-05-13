@@ -76,7 +76,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad056.;#12201;:H-1524,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-16" StartY="-8.501466852854658e-15" StartZ="3.775409697250724e-30" EndX="-16" EndY="8.329999999999991" EndZ="-1.465494392505168e-16"/>
+          <LineSegment StartX="-16" StartY="-8.5e-15" StartZ="0" EndX="-16" EndY="8.329999999999991" EndZ="-1e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Pad056.;#1226e;:H1513,E" migrated="1">
@@ -84,7 +84,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad056.;#1226e;:H1513,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-12" StartY="5.329070518200751e-15" StartZ="-2.366582715663035e-30" EndX="-12" EndY="49.00000000000001" EndZ="-4.440892098500658e-16"/>
+          <LineSegment StartX="-12" StartY="5.3e-15" StartZ="-0" EndX="-12" EndY="49.00000000000001" EndZ="-3.999999999999999e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -267,14 +267,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-456 PostfixCount 3
+457 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 456 2
+ElementMap 1 457 2
 
 Edge
 

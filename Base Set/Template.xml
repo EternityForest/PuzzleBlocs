@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Template">
+  <Properties Count="10" TransientCount="1">
+    <_Property name="Template" type="App::PropertyFile" status="33554432"/>
+    <Property name="EditableTexts" type="App::PropertyMap">
+      <Map count="8">
+<Item key="Designed_by_Name" value="Designed by Name"/>
+<Item key="Drawing_number" value="Drawing number"/>
+<Item key="FC-Date" value="Date"/>
+<Item key="FC-SC" value="Scale"/>
+<Item key="FC-SH" value="Sheet"/>
+<Item key="FC-Title" value="Title"/>
+<Item key="Subtitle" value="Subtitle"/>
+<Item key="Weight" value="Weight"/>
+      </Map>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="Height" type="App::PropertyLength" status="4">
+      <Float value="210"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Template"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="Orientation" type="App::PropertyEnumeration" status="4">
+      <Integer value="1"/>
+    </Property>
+    <Property name="PageResult" type="App::PropertyFileIncluded" status="134217728">
+      <FileIncluded file="A4_LandscapeTD.svg"/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="732"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Width" type="App::PropertyLength" status="4">
+      <Float value="297"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

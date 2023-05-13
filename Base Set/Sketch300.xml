@@ -78,7 +78,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pad101.;#2507d;:H1754,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="12" StartY="5.329070518200751e-15" StartZ="-2.366582715663035e-30" EndX="12" EndY="49.00000000000001" EndZ="-4.440892098500658e-16"/>
+          <LineSegment StartX="12" StartY="5.3e-15" StartZ="-0" EndX="12" EndY="49.00000000000001" EndZ="-3.999999999999999e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -184,7 +184,7 @@ Locations 1
               0               1 -4.44089209850063e-16               0 
 Curve2ds 0
 Curves 4
-1 12.000000000000085 14.999999999981746 0 -0.70710678118794257 -0.70710678118515236 0 
+1 12.000000000000085 14.999999999981746 0 -0.70710678118794268 -0.70710678118515247 0 
 1 7.5000000000001368 10.499999999999554 0 0 -1 0 
 1 7.5000000000001368 8.4999999999997762 0 1 0 0 
 1 11.999999999999918 8.4999999999997762 0 2.5688852754474879e-14 1 0 
@@ -260,14 +260,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-1017 PostfixCount 3
+1018 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 1017 2
+ElementMap 1 1018 2
 
 Edge
 
@@ -306,7 +306,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>

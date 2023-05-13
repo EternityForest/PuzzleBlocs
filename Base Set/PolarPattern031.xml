@@ -3,7 +3,7 @@
 <Document SchemaVersion="4" FileVersion="2">
 <Object name="PolarPattern031">
   <Properties Count="30" TransientCount="2">
-    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658240"/>
+    <_Property name="_Body" type="App::PropertyLinkHidden" status="251658241"/>
     <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
     <Property name="AddSubShape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -381,7 +381,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="72">
 <![CDATA[
-593 PostfixCount 22
+594 PostfixCount 22
 Edge
 Face
 Vertex
@@ -407,7 +407,7 @@ Vertex
 
 MapCount 3
 
-ElementMap 1 594 3
+ElementMap 1 595 3
 
 Edge
 
@@ -484,7 +484,7 @@ $#15493.c 0
 
 EndMap
 
-ElementMap 2 584 3
+ElementMap 2 585 3
 
 Edge
 
@@ -529,7 +529,7 @@ $#154b0.14 0
 
 EndMap
 
-ElementMap 3 593 3
+ElementMap 3 594 3
 
 Edge
 
@@ -3563,7 +3563,7 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="336">
 <![CDATA[
-595 PostfixCount 80
+596 PostfixCount 80
 Edge
 Face
 Vertex
@@ -3647,7 +3647,7 @@ Vertex
 
 MapCount 2
 
-ElementMap 1 596 3
+ElementMap 1 597 3
 
 Edge
 
@@ -4008,7 +4008,7 @@ $#154ec.22 0
 
 EndMap
 
-ElementMap 2 595 3
+ElementMap 2 596 3
 
 Edge
 
@@ -4069,7 +4069,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_Siblings" type="App::PropertyLinkList" status="218103808">

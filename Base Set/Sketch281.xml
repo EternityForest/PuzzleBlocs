@@ -76,7 +76,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket162.;#274a9;:G4#276d9;CUT;:H-17ad:e,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-0.789309382202171" StartY="-4.1" StartZ="-3.882674767884667e-31" EndX="-5.314403111555929" EndY="7.100000000000001" EndZ="6.162975822039155e-33"/>
+          <LineSegment StartX="-0.789309382202171" StartY="-4.1" StartZ="0" EndX="-5.314403111555929" EndY="7.100000000000001" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="Pocket162.;#2748a;:M2;CUT;:H17a4:8,E" migrated="1">
@@ -84,7 +84,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket162.;#2748a;:M2;CUT;:H17a4:8,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-5.314403111555929" StartY="7.1" StartZ="6.162975822039155e-33" EndX="-17.1" EndY="7.1" EndZ="6.162975822039155e-33"/>
+          <LineSegment StartX="-5.314403111555929" StartY="7.1" StartZ="0" EndX="-17.1" EndY="7.1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -177,7 +177,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="2.37389193643995e-66" Py="-6.162975822039155e-33" Pz="-1.368455531567204e-48" Q0="-1.361838123766445e-34" Q1="0.7071067811865475" Q2="0.7071067811865476" Q3="-1.361838123766445e-34" A="3.141592653589793" Ox="-1.361838123766445e-34" Oy="0.7071067811865475" Oz="0.7071067811865476"/>
+      <PropertyPlacement Px="0" Py="-0" Pz="-0" Q0="-0" Q1="0.7071067811865475" Q2="0.7071067811865476" Q3="6.123233995736766e-17" A="3.141592653589793" Ox="-0" Oy="0.7071067811865475" Oz="0.7071067811865476"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -194,7 +194,7 @@ Curves 4
 1 -17.100000000000001 7.0999999999999943 0 1 4.5216806315732462e-16 0 
 1 -5.3144031115559223 7.0999999999999996 0 -0.37460659341591179 0.92718385456678754 0 
 1 -25.03088293231156 55.899999999999999 0 -1 0 0 
-1 -27.430882932311558 55.899999999999999 0 0.20710837679071362 -0.97831800569299332 0 
+1 -27.430882932311558 55.899999999999999 0 0.20710837679071364 -0.97831800569299343 0 
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 0
@@ -267,14 +267,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-961 PostfixCount 3
+962 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 961 2
+ElementMap 1 962 2
 
 Edge
 

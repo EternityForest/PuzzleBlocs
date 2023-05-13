@@ -189,7 +189,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-1114 PostfixCount 11
+1103 PostfixCount 11
 Edge
 Face
 Vertex
@@ -204,7 +204,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 1114 3
+ElementMap 1 1103 3
 
 Edge
 
@@ -532,7 +532,7 @@ So
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="26">
 <![CDATA[
-1114 PostfixCount 11
+1103 PostfixCount 11
 Edge
 Face
 Vertex
@@ -547,7 +547,7 @@ Vertex
 
 MapCount 1
 
-ElementMap 1 1114 3
+ElementMap 1 1103 3
 
 Edge
 
@@ -622,10 +622,10 @@ TShapes 0
       </Part>
       <ElementMap/>
     </Property>
-    <Property name="TaperAngle" type="App::PropertyAngle">
+    <Property name="TaperAngle" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
-    <Property name="TaperAngleRev" type="App::PropertyAngle">
+    <Property name="TaperAngleRev" type="App::PropertyAngle" status="4">
       <Float value="0"/>
     </Property>
     <Property name="TaperInnerAngle" type="App::PropertyAngle">
@@ -653,7 +653,7 @@ TShapes 0
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_ProfileBasedVersion" type="App::PropertyInteger" status="67108864">

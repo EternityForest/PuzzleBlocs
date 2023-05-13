@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD ViewProvider -->
+<Document SchemaVersion="1" FileVersion="2">
+<ViewProvider name="View" expanded="1">
+  <Properties Count="24" TransientCount="0">
+    <Property name="ArcCenterMarks" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="CenterScale" type="App::PropertyFloat" status="1">
+      <Float value="0.5"/>
+    </Property>
+    <Property name="DisplayMode" type="App::PropertyEnumeration" status="9">
+      <Integer value="-1"/>
+    </Property>
+    <Property name="ExtraWidth" type="App::PropertyLength" status="1">
+      <Float value="0.5"/>
+    </Property>
+    <Property name="HiddenWidth" type="App::PropertyLength" status="1">
+      <Float value="0.13"/>
+    </Property>
+    <Property name="HighlightAdjust" type="App::PropertyFloat" status="1">
+      <Float value="0"/>
+    </Property>
+    <Property name="HighlightLineColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="255"/>
+    </Property>
+    <Property name="HighlightLineStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="2"/>
+    </Property>
+    <Property name="HorizCenterLine" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="IsoWidth" type="App::PropertyLength" status="1">
+      <Float value="0.18"/>
+    </Property>
+    <Property name="KeepLabel" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="LineWidth" type="App::PropertyLength" status="1">
+      <Float value="0.25"/>
+    </Property>
+    <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ResetClipPlane" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="SectionLineColor" type="App::PropertyColor" status="1">
+      <PropertyColor value="255"/>
+    </Property>
+    <Property name="SectionLineStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="2"/>
+    </Property>
+    <Property name="Selectable" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="SelectionStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShadowStyle" type="App::PropertyEnumeration" status="1">
+      <Integer value="0"/>
+    </Property>
+    <Property name="ShowAllEdges" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="ShowInTree" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="ShowSectionLine" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+    <Property name="VertCenterLine" type="App::PropertyBool" status="1">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="1">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</ViewProvider>
+</Document>

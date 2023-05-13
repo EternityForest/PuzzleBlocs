@@ -119,7 +119,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
           </GeoExtensions>
-          <GeomPoint X="2.976646856979209e-17" Y="1.588378546276082e-16" Z="0"/>
+          <GeomPoint X="0" Y="2e-16" Z="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -258,14 +258,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="12">
 <![CDATA[
-1113 PostfixCount 3
+1102 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 1113 2
+ElementMap 1 1102 2
 
 Edge
 
@@ -304,7 +304,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
   </Properties>

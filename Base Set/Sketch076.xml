@@ -201,11 +201,11 @@ Curve2ds 2
 Curves 3
 1 19.20000000000001 18.800000000000001 0 -1 0 0 
 1 -18.800000000000001 18.800000000000001 0 0 -1 0 
-2 -18.800000000000001 18.800000000000001 0 0 0 1 1 0 0 0 1 0 38
+2 -18.800000000000001 18.800000000000001 0 0 0 1 1 0 -0 -0 1 0 38
 Polygon3D 0
 PolygonOnTriangulations 0
 Surfaces 1
-2 -18.800000000000001 18.800000000000001 49 0 0 1 1 0 0 0 1 0 38
+2 -18.800000000000001 18.800000000000001 49 0 0 1 1 0 -0 -0 1 0 38
 Triangulations 0
 
 TShapes 7
@@ -263,14 +263,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="9">
 <![CDATA[
-203 PostfixCount 3
+204 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 203 2
+ElementMap 1 204 2
 
 Edge
 

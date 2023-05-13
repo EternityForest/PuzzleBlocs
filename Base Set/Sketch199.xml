@@ -310,14 +310,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="15">
 <![CDATA[
-705 PostfixCount 3
+706 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 705 2
+ElementMap 1 706 2
 
 Edge
 

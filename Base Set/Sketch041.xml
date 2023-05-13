@@ -82,7 +82,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern008.;#5390;:H12b7,E;:H12ba,E;:H12b3,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="5.524051660224096" StartY="-9.992007221626409e-16" StartZ="0" EndX="5.524051660224096" EndY="-19.4990000001114" EndZ="0"/>
+          <LineSegment StartX="5.524051660224096" StartY="-1e-15" StartZ="0" EndX="5.524051660224096" EndY="-19.4990000001114" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" ref="PolarPattern008.;#5396;:H12b7,E;:H12ba,E;:H12b3,E" migrated="1">
@@ -90,7 +90,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="PolarPattern008.;#5396;:H12b7,E;:H12ba,E;:H12b3,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-5.524051660152519" StartY="-9.992007221626409e-16" StartZ="0" EndX="-5.524051660152519" EndY="-19.4990000001114" EndZ="0"/>
+          <LineSegment StartX="-5.524051660152519" StartY="-1e-15" StartZ="0" EndX="-5.524051660152519" EndY="-19.4990000001114" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="3" ref="PolarPattern008.;#5395;:H12b7,E;:H12ba,E;:H12b3,E" migrated="1">
@@ -199,7 +199,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="24.5" Pz="0" Q0="0" Q1="0.7071067811865476" Q2="0.7071067811865475" Q3="0" A="3.141592653589793" Ox="0" Oy="0.7071067811865476" Oz="0.7071067811865475"/>
+      <PropertyPlacement Px="0" Py="24.5" Pz="0" Q0="0" Q1="0.7071067811865476" Q2="0.7071067811865475" Q3="6.123233995736766e-17" A="3.141592653589793" Ox="0" Oy="0.7071067811865476" Oz="0.7071067811865475"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -234,7 +234,7 @@ Curve2ds 2
 1 0 -158.97736236609501 1 0 
 Curves 4
 1 -4.3240516601525192 -23.998999999999999 0 0 1 0 
-2 3.57885e-11 -8.3240516601883083 0 0 0 1 1 0 0 0 1 0 4.3240516601883066
+2 3.57885e-11 -8.3240516601883083 0 0 0 1 1 0 -0 -0 1 0 4.3240516601883066
 1 4.3240516602240957 -23.998999999999999 0 0 1 0 
 1 -4.3240516601525192 -23.998999999999999 0 1 0 0 
 Polygon3D 0

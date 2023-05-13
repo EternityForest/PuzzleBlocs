@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Dimension006">
+  <Properties Count="26" TransientCount="0">
+    <Property name="Arbitrary" type="App::PropertyBool" status="134217728">
+      <Bool value="false"/>
+    </Property>
+    <Property name="ArbitraryTolerances" type="App::PropertyBool" status="134217728">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Caption" type="App::PropertyString" status="134217736">
+      <String value=""/>
+    </Property>
+    <Property name="EqualTolerance" type="App::PropertyBool" status="134217728">
+      <Bool value="true"/>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="FormatSpec" type="App::PropertyString" status="134217728">
+      <String value="⌀%.2f"/>
+    </Property>
+    <Property name="FormatSpecOverTolerance" type="App::PropertyString" status="134217728">
+      <String value="%+.2f"/>
+    </Property>
+    <Property name="FormatSpecUnderTolerance" type="App::PropertyString" status="134217732">
+      <String value="%+.2f"/>
+    </Property>
+    <Property name="Inverted" type="App::PropertyBool" status="134217728">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Dimension006"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="LockPosition" type="App::PropertyBool" status="134217736">
+      <Bool value="false"/>
+    </Property>
+    <Property name="MeasureType" type="App::PropertyEnumeration">
+      <Integer value="1"/>
+    </Property>
+    <Property name="OverTolerance" type="App::PropertyQuantityConstraint" status="134217728">
+      <Float value="0"/>
+    </Property>
+    <Property name="References2D" type="App::PropertyLinkSubList">
+      <LinkSubList count="1">
+        <Link obj="View001" sub="Edge21"/>
+      </LinkSubList>
+    </Property>
+    <Property name="References3D" type="App::PropertyLinkSubList">
+      <LinkSubList count="0">
+      </LinkSubList>
+    </Property>
+    <Property name="Rotation" type="App::PropertyAngle" status="134217740">
+      <Float value="0"/>
+    </Property>
+    <Property name="Scale" type="App::PropertyFloatConstraint" status="12">
+      <Float value="1"/>
+    </Property>
+    <Property name="ScaleType" type="App::PropertyEnumeration" status="12">
+      <Integer value="0"/>
+    </Property>
+    <Property name="TheoreticalExact" type="App::PropertyBool" status="134217728">
+      <Bool value="false"/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="744"/>
+    </Property>
+    <Property name="Type" type="App::PropertyEnumeration">
+      <Integer value="5"/>
+    </Property>
+    <Property name="UnderTolerance" type="App::PropertyQuantityConstraint" status="134217732">
+      <Float value="0"/>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+    <Property name="X" type="App::PropertyDistance" status="142606336">
+      <Float value="-48.1176"/>
+    </Property>
+    <Property name="Y" type="App::PropertyDistance" status="142606336">
+      <Float value="8.256270000000001"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

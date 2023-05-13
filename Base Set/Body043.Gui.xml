@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- FreeCAD ViewProvider -->
 <Document SchemaVersion="1" FileVersion="2">
-<ViewProvider name="Body043" expanded="0" Extensions="True">
+<ViewProvider name="Body043" expanded="1" Extensions="True">
   <Extensions Count="1">
     <Extension type="Gui::ViewProviderOriginGroupExtension" name="ViewProviderOriginGroupExtension">
     </Extension>
@@ -18,7 +18,7 @@
     </Property>
     <Property name="DiffuseColor" type="App::PropertyColorList" status="1">
       <ColorList count="1" >
-cccccc00
+94cc9400
       </ColorList>
     </Property>
     <Property name="DisplayMode" type="App::PropertyEnumeration" status="1">
@@ -95,10 +95,10 @@ cccccc00
       <Integer value="0"/>
     </Property>
     <Property name="ShapeColor" type="App::PropertyColor" status="1">
-      <PropertyColor value="3435973632"/>
+      <PropertyColor value="2496435200"/>
     </Property>
     <Property name="ShapeMaterial" type="App::PropertyMaterial" status="33">
-      <PropertyMaterial ambientColor="858993408" diffuseColor="3435973632" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0"/>
+      <PropertyMaterial ambientColor="858993408" diffuseColor="2496435200" specularColor="0" emissiveColor="0" shininess="0.2000000029802322" transparency="0"/>
     </Property>
     <Property name="ShowInTree" type="App::PropertyBool" status="1">
       <Bool value="true"/>
@@ -107,7 +107,7 @@ cccccc00
       <Integer value="0"/>
     </Property>
     <Property name="Visibility" type="App::PropertyBool" status="1">
-      <Bool value="false"/>
+      <Bool value="true"/>
     </Property>
   </Properties>
 </ViewProvider>

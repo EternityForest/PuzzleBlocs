@@ -3,18 +3,48 @@
  FreeCAD Document, see http://www.freecadweb.org for more information...
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
-<Expand />
+<Expand  count="2">
+  <Expand name="Group010" count="2">
+    <Expand name="Body041" count="10">
+      <Expand name="Pad121"/>
+      <Expand name="Pad122"/>
+      <Expand name="Pocket187"/>
+      <Expand name="Pocket192"/>
+      <Expand name="Pocket193"/>
+      <Expand name="Pocket201"/>
+      <Expand name="Pocket213"/>
+      <Expand name="Pocket215"/>
+      <Expand name="Pocket227"/>
+      <Expand name="Pocket228"/>
+    </Expand>
+    <Expand name="Body043" count="8">
+      <Expand name="Pocket194"/>
+      <Expand name="Pocket195"/>
+      <Expand name="Pocket196"/>
+      <Expand name="Pocket197"/>
+      <Expand name="Pocket198"/>
+      <Expand name="Pocket199"/>
+      <Expand name="Pocket214"/>
+      <Expand name="Pocket217"/>
+    </Expand>
+  </Expand>
+  <Expand name="Page" count="3">
+    <Expand name="View"/>
+    <Expand name="View001"/>
+    <Expand name="View002"/>
+  </Expand>
+</Expand>
   <Camera extra="1" id="2" binding="0" view3d="2">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position -31.157478 6.0863514 30.851585
-  orientation 0.33999002 0.72274983 0.60169685  4.7470388
-  nearDistance -18.046358
-  farDistance 83.802063
+  position 8.4109325 14.129429 8.0203953
+  orientation -0.18883567 -0.12185761 -0.97441894  4.399231
+  nearDistance -36.568771
+  farDistance 34.977703
   aspectRatio 1
-  focalDistance 33.698441
-  height 100.5444
+  focalDistance 31.190256
+  height 28.029476
 
 }
 ## overrideMode: As Is]]>
@@ -23,13 +53,13 @@ OrthographicCamera {
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 9.4248266 12.618568 1.5118237
-  orientation 0.14891692 0.58588296 -0.79659587  1.6550949
-  nearDistance -55.257446
-  farDistance 49.252659
+  position 20.236958 -34.039368 -9.5673027
+  orientation 0.98460877 0.053436168 0.16640256  1.7336073
+  nearDistance 9.055459
+  farDistance 71.476875
   aspectRatio 1
-  focalDistance 33.062504
-  height 80.765938
+  focalDistance 20.544788
+  height 91.446587
 
 }
 ## overrideMode: As Is]]>

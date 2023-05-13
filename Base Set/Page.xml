@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Page">
+  <Properties Count="11" TransientCount="0">
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="KeepUpdated" type="App::PropertyBool" status="134217728">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Page"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="NextBalloonIndex" type="App::PropertyInteger">
+      <Integer value="1"/>
+    </Property>
+    <Property name="ProjectionType" type="App::PropertyEnumeration">
+      <Integer value="0"/>
+    </Property>
+    <Property name="Scale" type="App::PropertyFloatConstraint">
+      <Float value="1"/>
+    </Property>
+    <Property name="Template" type="App::PropertyLink">
+      <Link value="Template"/>
+    </Property>
+    <Property name="TreeRank" type="App::PropertyInteger" status="2184">
+      <Integer value="733"/>
+    </Property>
+    <Property name="Views" type="App::PropertyLinkList" status="1">
+      <LinkList count="30">
+        <Link value="View"/>
+        <Link value="View001"/>
+        <Link value="View002"/>
+        <Link value="View003"/>
+        <Link value="Dimension006"/>
+        <Link value="Dimension007"/>
+        <Link value="Dimension"/>
+        <Link value="Dimension008"/>
+        <Link value="Dimension009"/>
+        <Link value="Dimension010"/>
+        <Link value="Dimension011"/>
+        <Link value="Dimension012"/>
+        <Link value="Dimension013"/>
+        <Link value="Dimension014"/>
+        <Link value="Dimension015"/>
+        <Link value="Dimension016"/>
+        <Link value="Dimension017"/>
+        <Link value="Dimension018"/>
+        <Link value="Dimension019"/>
+        <Link value="Dimension020"/>
+        <Link value="Dimension021"/>
+        <Link value="Dimension022"/>
+        <Link value="Dimension023"/>
+        <Link value="Dimension024"/>
+        <Link value="Dimension025"/>
+        <Link value="Dimension026"/>
+        <Link value="Dimension027"/>
+        <Link value="Dimension028"/>
+        <Link value="Dimension029"/>
+        <Link value="Dimension030"/>
+      </LinkList>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="true"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>

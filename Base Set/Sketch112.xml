@@ -88,7 +88,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch110.;g1;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-2.220446049250313e-16" Y="1" Z="-4.440892098500626e-16"/>
+          <GeomPoint X="-2e-16" Y="1" Z="-4e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomPoint" id="6" ref="Sketch111.;g3;SKT" migrated="1">
@@ -96,7 +96,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch111.;g3;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-3.885780586188047e-15" Y="5.000000000000007" Z="8.881784197001219e-16"/>
+          <GeomPoint X="-3.9e-15" Y="5.000000000000007" Z="9e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -375,14 +375,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-349 PostfixCount 3
+350 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 349 2
+ElementMap 1 350 2
 
 Edge
 

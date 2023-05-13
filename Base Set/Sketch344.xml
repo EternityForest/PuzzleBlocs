@@ -69,7 +69,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket013.;#1db9;:M;CUT;:H1210:7,E" Flags="0"/>
           </GeoExtensions>
-          <LineSegment StartX="-24.5" StartY="1.2" StartZ="-5.329070518200751e-16" EndX="-24.5" EndY="49.00000000000001" EndZ="-4.440892098500689e-16"/>
+          <LineSegment StartX="-24.5" StartY="1.2" StartZ="-5e-16" EndX="-24.5" EndY="49.00000000000001" EndZ="-4e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -185,14 +185,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="2">
 <![CDATA[
-1152 PostfixCount 3
+1135 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 1152 2
+ElementMap 1 1135 2
 
 Edge
 
@@ -225,7 +225,7 @@ EndMap
     <Property name="ValidateShape" type="App::PropertyBool">
       <Bool value="true"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
   </Properties>

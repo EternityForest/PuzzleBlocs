@@ -83,20 +83,20 @@
           <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomPoint" id="1" ref="Sketch275.Edge1" migrated="1">
+        <Geometry type="Part::GeomPoint" id="1" ref="Sketch275.;g1;SKT" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch275.Edge1" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch275.;g1;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-2.997602166487923e-15" Y="1.000000000000009" Z="-2.220446049250354e-16"/>
+          <GeomPoint X="-3e-15" Y="1.000000000000009" Z="-2e-16"/>
           <Construction value="1"/>
         </Geometry>
-        <Geometry type="Part::GeomPoint" id="6" ref="Sketch276.Edge2" migrated="1">
+        <Geometry type="Part::GeomPoint" id="6" ref="Sketch276.;g3;SKT" migrated="1">
           <GeoExtensions count="2">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
-            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch276.Edge2" Flags="0"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Sketch276.;g3;SKT" Flags="0"/>
           </GeoExtensions>
-          <GeomPoint X="-4.440892098500625e-15" Y="5.000000000000009" Z="8.881784197001215e-16"/>
+          <GeomPoint X="-4.4e-15" Y="5.000000000000009" Z="9e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -140,7 +140,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-4.440892098500625e-15" StartY="5.000000000000009" StartZ="0" EndX="-2.997602166487923e-15" EndY="1.000000000000009" EndZ="0"/>
+          <LineSegment StartX="-4.4e-15" StartY="5.000000000000009" StartZ="0" EndX="-3e-15" EndY="1.000000000000009" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="9" migrated="1">
@@ -375,14 +375,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="16">
 <![CDATA[
-947 PostfixCount 3
+948 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 947 2
+ElementMap 1 948 2
 
 Edge
 

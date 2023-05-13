@@ -222,7 +222,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="16" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <ArcOfCircle CenterX="14.3696447676653" CenterY="10.76921560778289" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="4.975268333185814" StartAngle="2.060266440258406e-17" EndAngle="1.570796326794897"/>
+          <ArcOfCircle CenterX="14.3696447676653" CenterY="10.76921560778289" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="4.975268333185814" StartAngle="0" EndAngle="1.570796326794897"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomArcOfCircle" id="17" migrated="1">
@@ -250,14 +250,14 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="20" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="-8.948974" CenterY="-0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="3.149465"/>
+          <Circle CenterX="-8.948974" CenterY="0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="3.149465"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="21" migrated="1">
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="21" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <Circle CenterX="0" CenterY="-0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.966387"/>
+          <Circle CenterX="0" CenterY="0" CenterZ="0" NormalX="0" NormalY="0" NormalZ="1" AngleXU="-0" Radius="2.966387"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomCircle" id="22" migrated="1">
@@ -313,7 +313,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="-4" Pz="8.881784197001252e-16" Q0="0" Q1="0.7071067811865476" Q2="0.7071067811865475" Q3="0" A="3.141592653589793" Ox="0" Oy="0.7071067811865476" Oz="0.7071067811865475"/>
+      <PropertyPlacement Px="0" Py="-4" Pz="9e-16" Q0="0" Q1="0.7071067811865476" Q2="0.7071067811865475" Q3="6.123233995736766e-17" A="3.141592653589793" Ox="0" Oy="0.7071067811865476" Oz="0.7071067811865475"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -360,16 +360,16 @@ Curve2ds 17
 1 0 0 1 0 
 Curves 19
 1 19.344913100851116 9 0 0 1 0 
-2 14.369644767665301 10.769215607782893 0 0 0 1 1 0 0 0 1 0 4.9752683331858139
+2 14.369644767665301 10.769215607782893 0 0 0 1 1 0 -0 -0 1 0 4.9752683331858139
 1 14.369644767665301 15.744483940968708 0 -1 0 0 
-2 -11.996324232334699 11.178395798798995 0 0 0 1 1 0 0 0 1 0 4.5660881421697139
+2 -11.996324232334699 11.178395798798995 0 0 0 1 1 0 -0 -0 1 0 4.5660881421697139
 1 -16.562412374504412 11.178395798798995 0 0 -1 0 
 1 -16.562412374504412 10.769215607782893 0 1 0 0 
 1 14.369644767665301 10.769215607782893 0 0 -1 0 
 1 19.344913100851116 9 0 -1 0 0 
-2 -11.996324232334699 -11.178395798798997 0 0 0 1 1 0 0 0 1 0 4.5660881421697139
+2 -11.996324232334699 -11.178395798798997 0 0 0 1 1 0 -0 -0 1 0 4.5660881421697139
 1 -11.996324232334699 -15.74448394096871 0 1 0 0 
-2 14.369644767665303 -10.769215607782895 0 0 0 1 1 0 0 0 1 0 4.9752683331858139
+2 14.369644767665303 -10.769215607782895 0 0 0 1 1 0 -0 -0 1 0 4.9752683331858139
 1 19.344913100851116 -10.769215607782895 0 0 1 0 
 1 19.344913100851116 -9.0000000000000018 0 -1 0 0 
 1 14.369644767665301 -10.769215607782895 0 0 1 0 
@@ -394,7 +394,7 @@ Surfaces 24
 10 2.0602664402584058e-17 1.5707963267948966 0 4.6188021535170067
 3 -14.369644767665301 -3.9999999999999978 10.769215607782893 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 4.9752683331858139
 0.52359877559829904
-1 -14.369644767665303 4.0087677661231804e-15 18.053885017727211 -7.70371977754894e-34 -0.49999999999999961 0.86602540378443893 1 -1.540743955509789e-33 3.4211388289180104e-49 1.3343234061987985e-33 0.86602540378443893 0.49999999999999961 
+1 -14.369644767665303 4.0087677661231804e-15 18.053885017727211 -7.70371977754894e-34 -0.49999999999999961 0.86602540378443893 1 -1.5407439555097894e-33 8.5528470722950261e-50 1.3343234061987989e-33 0.86602540378443893 0.49999999999999961 
 10 1.5707963267948966 3.1415926535897931 0 4.6188021535170058
 3 11.996324232334699 -3.9999999999999973 11.178395798798995 0 1 -2.2204460492503131e-16 -1 0 0 0 2.2204460492503131e-16 1 4.5660881421697139
 0.52359877559829882
@@ -834,14 +834,14 @@ Co
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="38">
 <![CDATA[
-1028 PostfixCount 3
+1029 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 2
 
-ElementMap 1 1029 2
+ElementMap 1 1030 2
 
 Edge
 
@@ -875,7 +875,7 @@ NameCount 9
 
 EndMap
 
-ElementMap 2 1028 2
+ElementMap 2 1029 2
 
 Edge
 

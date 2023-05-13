@@ -167,7 +167,7 @@ TShapes 0
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="12" Py="0" Pz="0" Q0="0.5" Q1="0.5" Q2="0.5" Q3="0.5" A="2.094395102393196" Ox="0.5773502691896257" Oy="0.5773502691896257" Oz="0.5773502691896257"/>
+      <PropertyPlacement Px="12" Py="0" Pz="0" Q0="0.5" Q1="0.5" Q2="0.5" Q3="0.4999999999999999" A="2.094395102393196" Ox="0.5773502691896257" Oy="0.5773502691896257" Oz="0.5773502691896257"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -182,7 +182,7 @@ Locations 1
 Curve2ds 0
 Curves 3
 1 12 19.499999999999993 0 -1 0 0 
-1 7.5000000000005329 19.499999999999993 0 0.70710678118650505 0.70710678118658987 0 
+1 7.5000000000005329 19.499999999999993 0 0.70710678118650516 0.70710678118658998 0 
 1 12 24 0 0 -1 0 
 Polygon3D 0
 PolygonOnTriangulations 0
@@ -242,14 +242,14 @@ Wi
       <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
       <ElementMap2 count="9">
 <![CDATA[
-842 PostfixCount 3
+843 PostfixCount 3
 Edge
 Vertex
 ;SKT
 
 MapCount 1
 
-ElementMap 1 842 2
+ElementMap 1 843 2
 
 Edge
 
